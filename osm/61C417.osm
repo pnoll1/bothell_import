@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="47.832783678" lon="-122.150688252" visible="true"><tag k="addr:housenumber" v="18116"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-2" lat="47.832275071" lon="-122.148620352" visible="true"><tag k="addr:housenumber" v="18201"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-3" lat="47.831309458" lon="-122.148678633" visible="true"><tag k="addr:housenumber" v="18310"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-4" lat="47.831707083" lon="-122.150515205" visible="true"><tag k="addr:housenumber" v="18230"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-5" lat="47.833844486" lon="-122.15071736" visible="true"><tag k="addr:housenumber" v="18018"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-6" lat="47.831165313" lon="-122.150094861" visible="true"><tag k="addr:housenumber" v="18232"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-7" lat="47.833754193" lon="-122.149765789" visible="true"><tag k="addr:housenumber" v="18009"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-8" lat="47.833931123" lon="-122.152701126" visible="true"><tag k="addr:housenumber" v="5914"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="180th Street Southeast"/></node>
+<node id="-9" lat="47.833205541" lon="-122.148123015" visible="true"><tag k="addr:housenumber" v="6212"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="180th Street Southeast"/></node>
+<node id="-10" lat="47.832633365" lon="-122.148833318" visible="true"><tag k="addr:housenumber" v="18129"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-11" lat="47.833200689" lon="-122.149616329" visible="true"><tag k="addr:housenumber" v="18027"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-12" lat="47.83362408" lon="-122.148921591" visible="true"><tag k="addr:housenumber" v="6132"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="180th Street Southeast"/></node>
+<node id="-13" lat="47.833806359" lon="-122.14809245" visible="true"><tag k="addr:housenumber" v="6300"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="180th Street Southeast"/></node>
+<node id="-14" lat="47.833283095" lon="-122.150585395" visible="true"><tag k="addr:housenumber" v="18030"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-15" lat="47.832683321" lon="-122.149543123" visible="true"><tag k="addr:housenumber" v="18113"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-16" lat="47.832109756" lon="-122.149407473" visible="true"><tag k="addr:housenumber" v="18211"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-17" lat="47.833149619" lon="-122.151339909" visible="true"><tag k="addr:housenumber" v="18108"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-18" lat="47.832008478" lon="-122.150246141" visible="true"><tag k="addr:housenumber" v="18228"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-19" lat="47.830881324" lon="-122.148721124" visible="true"><tag k="addr:housenumber" v="18330"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="James Street"/></node>
+<node id="-20" lat="47.832880792" lon="-122.152510563" visible="true"><tag k="addr:housenumber" v="18033"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+<node id="-21" lat="47.831780871" lon="-122.152226662" visible="true"><tag k="addr:housenumber" v="18305"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+<node id="-22" lat="47.833311882" lon="-122.152516449" visible="true"><tag k="addr:housenumber" v="18029"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+<node id="-23" lat="47.833588515" lon="-122.15234152" visible="true"><tag k="addr:housenumber" v="18025"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+<node id="-24" lat="47.832409947" lon="-122.15265556" visible="true"><tag k="addr:housenumber" v="18131"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+<node id="-25" lat="47.830702583" lon="-122.151919315" visible="true"><tag k="addr:housenumber" v="18323"/><tag k="addr:postcode" v="98296"/><tag k="addr:city" v="Snohomish"/><tag k="addr:street" v="59th Avenue Southeast"/></node>
+</osm>

@@ -1,0 +1,1263 @@
+<osm generator="uvmogr2osm" upload="false" version="0.6">
+<node id="-2" lat="47.825209582" lon="-122.23674998" visible="true" />
+<node id="-3" lat="47.82556804" lon="-122.236757444" visible="true" />
+<node id="-4" lat="47.825569532" lon="-122.236599366" visible="true" />
+<node id="-5" lat="47.82562324" lon="-122.236600486" visible="true" />
+<node id="-6" lat="47.825627357" lon="-122.236164304" visible="true" />
+<node id="-7" lat="47.825178908" lon="-122.236154973" visible="true" />
+<node id="-8" lat="47.825214262" lon="-122.236254381" visible="true" />
+<node id="-10" lat="47.823918435" lon="-122.231719187" visible="true" />
+<node id="-11" lat="47.824024399" lon="-122.231721795" visible="true" />
+<node id="-12" lat="47.824024504" lon="-122.231712271" visible="true" />
+<node id="-13" lat="47.824031966" lon="-122.231712454" visible="true" />
+<node id="-14" lat="47.824033545" lon="-122.231570903" visible="true" />
+<node id="-15" lat="47.823913686" lon="-122.231567954" visible="true" />
+<node id="-16" lat="47.823913566" lon="-122.231578713" visible="true" />
+<node id="-17" lat="47.823886847" lon="-122.231578055" visible="true" />
+<node id="-18" lat="47.82388544" lon="-122.231704037" visible="true" />
+<node id="-19" lat="47.823912019" lon="-122.231704691" visible="true" />
+<node id="-20" lat="47.823911991" lon="-122.23170723" visible="true" />
+<node id="-21" lat="47.823918566" lon="-122.231707391" visible="true" />
+<node id="-23" lat="47.824193244" lon="-122.233593563" visible="true" />
+<node id="-24" lat="47.824126723" lon="-122.233593719" visible="true" />
+<node id="-25" lat="47.824126739" lon="-122.233601415" visible="true" />
+<node id="-26" lat="47.824095809" lon="-122.233601476" visible="true" />
+<node id="-27" lat="47.824095844" lon="-122.233647809" visible="true" />
+<node id="-28" lat="47.824081669" lon="-122.233647834" visible="true" />
+<node id="-29" lat="47.82408166" lon="-122.23363513" visible="true" />
+<node id="-30" lat="47.82405934" lon="-122.233635179" visible="true" />
+<node id="-31" lat="47.824059336" lon="-122.233628706" visible="true" />
+<node id="-32" lat="47.824004826" lon="-122.233628821" visible="true" />
+<node id="-33" lat="47.824004923" lon="-122.233741724" visible="true" />
+<node id="-34" lat="47.823998643" lon="-122.233741758" visible="true" />
+<node id="-35" lat="47.823998733" lon="-122.233828401" visible="true" />
+<node id="-36" lat="47.824003367" lon="-122.233828405" visible="true" />
+<node id="-37" lat="47.824003392" lon="-122.233844284" visible="true" />
+<node id="-38" lat="47.824046742" lon="-122.233844233" visible="true" />
+<node id="-39" lat="47.824046729" lon="-122.233831937" visible="true" />
+<node id="-40" lat="47.824193452" lon="-122.233831668" visible="true" />
+<node id="-42" lat="47.823959653" lon="-122.233652313" visible="true" />
+<node id="-43" lat="47.823914693" lon="-122.233651629" visible="true" />
+<node id="-44" lat="47.823914631" lon="-122.233661194" visible="true" />
+<node id="-45" lat="47.823892124" lon="-122.23366083" visible="true" />
+<node id="-46" lat="47.823891995" lon="-122.233680329" visible="true" />
+<node id="-47" lat="47.823869105" lon="-122.233679955" visible="true" />
+<node id="-48" lat="47.823869402" lon="-122.233637742" visible="true" />
+<node id="-49" lat="47.823795878" lon="-122.23363657" visible="true" />
+<node id="-50" lat="47.823794719" lon="-122.233798337" visible="true" />
+<node id="-51" lat="47.823784937" lon="-122.233815621" visible="true" />
+<node id="-52" lat="47.823784369" lon="-122.233846386" visible="true" />
+<node id="-53" lat="47.823798267" lon="-122.233866792" visible="true" />
+<node id="-54" lat="47.823813728" lon="-122.233867047" visible="true" />
+<node id="-55" lat="47.823813609" lon="-122.233883453" visible="true" />
+<node id="-56" lat="47.823868163" lon="-122.233884315" visible="true" />
+<node id="-57" lat="47.823868295" lon="-122.233869092" visible="true" />
+<node id="-58" lat="47.823904618" lon="-122.233869667" visible="true" />
+<node id="-59" lat="47.823904536" lon="-122.233878541" visible="true" />
+<node id="-60" lat="47.823978171" lon="-122.233879674" visible="true" />
+<node id="-61" lat="47.823979344" lon="-122.233716849" visible="true" />
+<node id="-62" lat="47.823972792" lon="-122.233716753" visible="true" />
+<node id="-63" lat="47.823973179" lon="-122.233665016" visible="true" />
+<node id="-64" lat="47.823959555" lon="-122.233664811" visible="true" />
+<node id="-66" lat="47.823978232" lon="-122.232995195" visible="true" />
+<node id="-67" lat="47.823824155" lon="-122.23299364" visible="true" />
+<node id="-68" lat="47.823823144" lon="-122.233210538" visible="true" />
+<node id="-69" lat="47.823809217" lon="-122.233210366" visible="true" />
+<node id="-70" lat="47.823808946" lon="-122.233268214" visible="true" />
+<node id="-71" lat="47.823820872" lon="-122.233268333" visible="true" />
+<node id="-72" lat="47.823820831" lon="-122.233276149" visible="true" />
+<node id="-73" lat="47.823879227" lon="-122.233276749" visible="true" />
+<node id="-74" lat="47.82387927" lon="-122.23326873" visible="true" />
+<node id="-75" lat="47.823944602" lon="-122.233269394" visible="true" />
+<node id="-76" lat="47.823945213" lon="-122.233136723" visible="true" />
+<node id="-77" lat="47.823980224" lon="-122.233137057" visible="true" />
+<node id="-78" lat="47.823980664" lon="-122.233040698" visible="true" />
+<node id="-79" lat="47.823978031" lon="-122.233040667" visible="true" />
+<node id="-81" lat="47.823933689" lon="-122.232790421" visible="true" />
+<node id="-82" lat="47.823894878" lon="-122.232777972" visible="true" />
+<node id="-83" lat="47.823912478" lon="-122.232657404" visible="true" />
+<node id="-84" lat="47.823846684" lon="-122.232636248" visible="true" />
+<node id="-85" lat="47.823845009" lon="-122.232647642" visible="true" />
+<node id="-86" lat="47.823821357" lon="-122.232640041" visible="true" />
+<node id="-87" lat="47.823815278" lon="-122.232681895" visible="true" />
+<node id="-88" lat="47.823803807" lon="-122.232678206" visible="true" />
+<node id="-89" lat="47.823781297" lon="-122.232832558" visible="true" />
+<node id="-90" lat="47.823842912" lon="-122.232852379" visible="true" />
+<node id="-91" lat="47.823835458" lon="-122.232903559" visible="true" />
+<node id="-92" lat="47.823913515" lon="-122.23292867" visible="true" />
+<node id="-94" lat="47.823666957" lon="-122.232754433" visible="true" />
+<node id="-95" lat="47.823637855" lon="-122.232712649" visible="true" />
+<node id="-96" lat="47.823629584" lon="-122.232725372" visible="true" />
+<node id="-97" lat="47.823524441" lon="-122.232574497" visible="true" />
+<node id="-98" lat="47.823417243" lon="-122.232739262" visible="true" />
+<node id="-99" lat="47.823440712" lon="-122.232772956" visible="true" />
+<node id="-100" lat="47.82343694" lon="-122.232778758" visible="true" />
+<node id="-101" lat="47.82348132" lon="-122.232842412" visible="true" />
+<node id="-102" lat="47.823509489" lon="-122.23279916" visible="true" />
+<node id="-103" lat="47.823521614" lon="-122.232816547" visible="true" />
+<node id="-104" lat="47.823512951" lon="-122.232829871" visible="true" />
+<node id="-105" lat="47.823539385" lon="-122.232867798" visible="true" />
+<node id="-106" lat="47.823543744" lon="-122.232861116" visible="true" />
+<node id="-107" lat="47.823571741" lon="-122.232901283" visible="true" />
+<node id="-108" lat="47.823619638" lon="-122.232827703" visible="true" />
+<node id="-109" lat="47.823623519" lon="-122.232833223" visible="true" />
+<node id="-110" lat="47.823662614" lon="-122.232773166" visible="true" />
+<node id="-111" lat="47.823658545" lon="-122.232767317" visible="true" />
+<node id="-113" lat="47.824060764" lon="-122.232469071" visible="true" />
+<node id="-114" lat="47.823922714" lon="-122.232497672" visible="true" />
+<node id="-115" lat="47.823936587" lon="-122.232645515" visible="true" />
+<node id="-116" lat="47.823989971" lon="-122.232634456" visible="true" />
+<node id="-117" lat="47.823990747" lon="-122.232642743" visible="true" />
+<node id="-118" lat="47.824041766" lon="-122.23263219" visible="true" />
+<node id="-119" lat="47.824048024" lon="-122.232698846" visible="true" />
+<node id="-120" lat="47.824117819" lon="-122.232684404" visible="true" />
+<node id="-121" lat="47.824101639" lon="-122.232512193" visible="true" />
+<node id="-122" lat="47.824095041" lon="-122.232513562" visible="true" />
+<node id="-123" lat="47.8240915" lon="-122.232475887" visible="true" />
+<node id="-124" lat="47.824061976" lon="-122.23248201" visible="true" />
+<node id="-126" lat="47.82451574" lon="-122.232734805" visible="true" />
+<node id="-127" lat="47.824497216" lon="-122.232684591" visible="true" />
+<node id="-128" lat="47.824510289" lon="-122.232673951" visible="true" />
+<node id="-129" lat="47.824495639" lon="-122.232634306" visible="true" />
+<node id="-130" lat="47.824485391" lon="-122.232642662" visible="true" />
+<node id="-131" lat="47.824458029" lon="-122.232568595" visible="true" />
+<node id="-132" lat="47.824367409" lon="-122.232642408" visible="true" />
+<node id="-133" lat="47.824383598" lon="-122.232686246" visible="true" />
+<node id="-134" lat="47.824369334" lon="-122.232697872" visible="true" />
+<node id="-135" lat="47.824393963" lon="-122.232764577" visible="true" />
+<node id="-136" lat="47.824385321" lon="-122.232771631" visible="true" />
+<node id="-137" lat="47.82441555" lon="-122.23285347" visible="true" />
+<node id="-138" lat="47.824487808" lon="-122.232794593" visible="true" />
+<node id="-139" lat="47.824477299" lon="-122.232766094" visible="true" />
+<node id="-141" lat="47.823095075" lon="-122.235130072" visible="true" />
+<node id="-142" lat="47.823056352" lon="-122.235298232" visible="true" />
+<node id="-143" lat="47.823239251" lon="-122.23539112" visible="true" />
+<node id="-144" lat="47.823278001" lon="-122.235222962" visible="true" />
+<node id="-146" lat="47.824370331" lon="-122.232912018" visible="true" />
+<node id="-147" lat="47.82429018" lon="-122.232912378" visible="true" />
+<node id="-148" lat="47.824290261" lon="-122.23295509" visible="true" />
+<node id="-149" lat="47.824286011" lon="-122.232955097" visible="true" />
+<node id="-150" lat="47.824286216" lon="-122.233054732" visible="true" />
+<node id="-151" lat="47.824309606" lon="-122.23305463" visible="true" />
+<node id="-152" lat="47.824309685" lon="-122.233090746" visible="true" />
+<node id="-153" lat="47.824303461" lon="-122.233090741" visible="true" />
+<node id="-154" lat="47.824303602" lon="-122.233155319" visible="true" />
+<node id="-155" lat="47.824424719" lon="-122.233154763" visible="true" />
+<node id="-156" lat="47.824424333" lon="-122.232962497" visible="true" />
+<node id="-157" lat="47.824370423" lon="-122.232962751" visible="true" />
+<node id="-159" lat="47.823341833" lon="-122.233538926" visible="true" />
+<node id="-160" lat="47.823312643" lon="-122.233538056" visible="true" />
+<node id="-161" lat="47.823312756" lon="-122.233528777" visible="true" />
+<node id="-162" lat="47.823248098" lon="-122.233526825" visible="true" />
+<node id="-163" lat="47.823247478" lon="-122.233572937" visible="true" />
+<node id="-164" lat="47.823194057" lon="-122.233571372" visible="true" />
+<node id="-165" lat="47.823191567" lon="-122.233756675" visible="true" />
+<node id="-166" lat="47.823228378" lon="-122.233757752" visible="true" />
+<node id="-167" lat="47.823243134" lon="-122.233781968" visible="true" />
+<node id="-168" lat="47.823259427" lon="-122.233759161" visible="true" />
+<node id="-169" lat="47.823310107" lon="-122.233760652" visible="true" />
+<node id="-170" lat="47.823310939" lon="-122.233697161" visible="true" />
+<node id="-171" lat="47.82333972" lon="-122.23369802" visible="true" />
+<node id="-173" lat="47.823194328" lon="-122.232721111" visible="true" />
+<node id="-174" lat="47.823185036" lon="-122.232720779" visible="true" />
+<node id="-175" lat="47.823186017" lon="-122.232665353" visible="true" />
+<node id="-176" lat="47.823158337" lon="-122.232664281" visible="true" />
+<node id="-177" lat="47.823159801" lon="-122.23258049" visible="true" />
+<node id="-178" lat="47.823069827" lon="-122.232577003" visible="true" />
+<node id="-179" lat="47.823069653" lon="-122.232586769" visible="true" />
+<node id="-180" lat="47.82303227" lon="-122.232585353" visible="true" />
+<node id="-181" lat="47.823029168" lon="-122.232762577" visible="true" />
+<node id="-182" lat="47.823071153" lon="-122.2327642" visible="true" />
+<node id="-183" lat="47.823071401" lon="-122.23275073" visible="true" />
+<node id="-184" lat="47.823094341" lon="-122.232751594" visible="true" />
+<node id="-185" lat="47.823093626" lon="-122.232792004" visible="true" />
+<node id="-186" lat="47.823165156" lon="-122.232794749" visible="true" />
+<node id="-187" lat="47.82316529" lon="-122.232786121" visible="true" />
+<node id="-188" lat="47.82319319" lon="-122.2327872" visible="true" />
+<node id="-190" lat="47.823627868" lon="-122.231991981" visible="true" />
+<node id="-191" lat="47.823534172" lon="-122.232055125" visible="true" />
+<node id="-192" lat="47.823564358" lon="-122.232153898" visible="true" />
+<node id="-193" lat="47.823658083" lon="-122.232090715" visible="true" />
+<node id="-195" lat="47.823870318" lon="-122.231868075" visible="true" />
+<node id="-196" lat="47.823788058" lon="-122.231953351" visible="true" />
+<node id="-197" lat="47.823872131" lon="-122.232132116" visible="true" />
+<node id="-198" lat="47.823954391" lon="-122.232046841" visible="true" />
+<node id="-200" lat="47.823027868" lon="-122.230652758" visible="true" />
+<node id="-201" lat="47.82293875" lon="-122.230796761" visible="true" />
+<node id="-202" lat="47.822996734" lon="-122.230875844" visible="true" />
+<node id="-203" lat="47.823085852" lon="-122.230731881" visible="true" />
+<node id="-205" lat="47.823949251" lon="-122.230703208" visible="true" />
+<node id="-206" lat="47.823831206" lon="-122.230699048" visible="true" />
+<node id="-207" lat="47.823831671" lon="-122.230670032" visible="true" />
+<node id="-208" lat="47.82376688" lon="-122.230667714" visible="true" />
+<node id="-209" lat="47.823765591" lon="-122.230748457" visible="true" />
+<node id="-210" lat="47.823734868" lon="-122.230747384" visible="true" />
+<node id="-211" lat="47.823733535" lon="-122.230831627" visible="true" />
+<node id="-212" lat="47.823760888" lon="-122.230832609" visible="true" />
+<node id="-213" lat="47.823760395" lon="-122.230863986" visible="true" />
+<node id="-214" lat="47.823833436" lon="-122.230866566" visible="true" />
+<node id="-215" lat="47.823834265" lon="-122.230814474" visible="true" />
+<node id="-216" lat="47.823874416" lon="-122.230815883" visible="true" />
+<node id="-217" lat="47.823874118" lon="-122.230835784" visible="true" />
+<node id="-218" lat="47.823947077" lon="-122.230838362" visible="true" />
+<node id="-220" lat="47.824152924" lon="-122.236516191" visible="true" />
+<node id="-221" lat="47.824095088" lon="-122.23653262" visible="true" />
+<node id="-222" lat="47.824093461" lon="-122.236519956" visible="true" />
+<node id="-223" lat="47.824046191" lon="-122.236533333" visible="true" />
+<node id="-224" lat="47.824044786" lon="-122.236522628" visible="true" />
+<node id="-225" lat="47.823982327" lon="-122.236540357" visible="true" />
+<node id="-226" lat="47.824007533" lon="-122.236736266" visible="true" />
+<node id="-227" lat="47.824071367" lon="-122.236718166" visible="true" />
+<node id="-228" lat="47.824068967" lon="-122.236699332" visible="true" />
+<node id="-229" lat="47.824121988" lon="-122.236684278" visible="true" />
+<node id="-230" lat="47.82411816" lon="-122.236654453" visible="true" />
+<node id="-231" lat="47.82416887" lon="-122.23664007" visible="true" />
+<node id="-233" lat="47.823146927" lon="-122.234756447" visible="true" />
+<node id="-234" lat="47.823285501" lon="-122.234760445" visible="true" />
+<node id="-235" lat="47.823286987" lon="-122.234646806" visible="true" />
+<node id="-236" lat="47.823169783" lon="-122.234643424" visible="true" />
+<node id="-237" lat="47.823169495" lon="-122.234665438" visible="true" />
+<node id="-238" lat="47.823160387" lon="-122.234665174" visible="true" />
+<node id="-239" lat="47.82316042" lon="-122.234662681" visible="true" />
+<node id="-240" lat="47.823142842" lon="-122.234662175" visible="true" />
+<node id="-241" lat="47.823141653" lon="-122.234753034" visible="true" />
+<node id="-242" lat="47.82314697" lon="-122.234753187" visible="true" />
+<node id="-244" lat="47.823287601" lon="-122.234499567" visible="true" />
+<node id="-245" lat="47.823171066" lon="-122.23449742" visible="true" />
+<node id="-246" lat="47.823170889" lon="-122.234518607" visible="true" />
+<node id="-247" lat="47.823159986" lon="-122.234518406" visible="true" />
+<node id="-248" lat="47.823160007" lon="-122.234515822" visible="true" />
+<node id="-249" lat="47.823144133" lon="-122.234515529" visible="true" />
+<node id="-250" lat="47.823143378" lon="-122.234605923" visible="true" />
+<node id="-251" lat="47.823148052" lon="-122.234606008" visible="true" />
+<node id="-252" lat="47.823148024" lon="-122.234609317" visible="true" />
+<node id="-253" lat="47.823286663" lon="-122.23461187" visible="true" />
+<node id="-255" lat="47.823171057" lon="-122.234467109" visible="true" />
+<node id="-256" lat="47.823288104" lon="-122.234468893" visible="true" />
+<node id="-257" lat="47.823288889" lon="-122.234355185" visible="true" />
+<node id="-258" lat="47.823150151" lon="-122.23435307" visible="true" />
+<node id="-259" lat="47.823150163" lon="-122.234351312" visible="true" />
+<node id="-260" lat="47.823145595" lon="-122.234351243" visible="true" />
+<node id="-261" lat="47.823144961" lon="-122.234442941" visible="true" />
+<node id="-262" lat="47.823160441" lon="-122.234443178" visible="true" />
+<node id="-263" lat="47.823160418" lon="-122.234446494" visible="true" />
+<node id="-264" lat="47.823171199" lon="-122.234446659" visible="true" />
+<node id="-266" lat="47.823145884" lon="-122.234321088" visible="true" />
+<node id="-267" lat="47.823194557" lon="-122.234322153" visible="true" />
+<node id="-268" lat="47.823194542" lon="-122.234323678" visible="true" />
+<node id="-269" lat="47.823288563" lon="-122.234325735" visible="true" />
+<node id="-270" lat="47.823289695" lon="-122.234211656" visible="true" />
+<node id="-271" lat="47.823186046" lon="-122.234209388" visible="true" />
+<node id="-272" lat="47.823185834" lon="-122.234230669" visible="true" />
+<node id="-273" lat="47.82314679" lon="-122.234229815" visible="true" />
+<node id="-275" lat="47.823174326" lon="-122.23417978" visible="true" />
+<node id="-276" lat="47.823290608" lon="-122.234181919" visible="true" />
+<node id="-277" lat="47.82329156" lon="-122.234067722" visible="true" />
+<node id="-278" lat="47.823148629" lon="-122.234065092" visible="true" />
+<node id="-279" lat="47.823147865" lon="-122.234156735" visible="true" />
+<node id="-280" lat="47.823163273" lon="-122.234157018" visible="true" />
+<node id="-281" lat="47.82316325" lon="-122.234159653" visible="true" />
+<node id="-282" lat="47.823174492" lon="-122.234159859" visible="true" />
+<node id="-284" lat="47.822713934" lon="-122.234191811" visible="true" />
+<node id="-285" lat="47.822566475" lon="-122.234188578" visible="true" />
+<node id="-286" lat="47.822565558" lon="-122.234280818" visible="true" />
+<node id="-287" lat="47.822592133" lon="-122.2342814" visible="true" />
+<node id="-288" lat="47.822591893" lon="-122.234305649" visible="true" />
+<node id="-289" lat="47.822647294" lon="-122.234306864" visible="true" />
+<node id="-290" lat="47.822647483" lon="-122.234287813" visible="true" />
+<node id="-291" lat="47.822659497" lon="-122.234288076" visible="true" />
+<node id="-292" lat="47.822659317" lon="-122.234306187" visible="true" />
+<node id="-293" lat="47.822712785" lon="-122.234307358" visible="true" />
+<node id="-295" lat="47.822710275" lon="-122.234049008" visible="true" />
+<node id="-296" lat="47.822570186" lon="-122.23404447" visible="true" />
+<node id="-297" lat="47.822568807" lon="-122.234138313" visible="true" />
+<node id="-298" lat="47.822595061" lon="-122.234139164" visible="true" />
+<node id="-299" lat="47.822594755" lon="-122.234160066" visible="true" />
+<node id="-300" lat="47.822708588" lon="-122.234163755" visible="true" />
+<node id="-302" lat="47.822927546" lon="-122.233294797" visible="true" />
+<node id="-303" lat="47.823025239" lon="-122.233296432" visible="true" />
+<node id="-304" lat="47.823025442" lon="-122.233269635" visible="true" />
+<node id="-305" lat="47.823065183" lon="-122.2332703" visible="true" />
+<node id="-306" lat="47.823066156" lon="-122.233142109" visible="true" />
+<node id="-307" lat="47.823031073" lon="-122.233141522" visible="true" />
+<node id="-308" lat="47.823031247" lon="-122.233118611" visible="true" />
+<node id="-309" lat="47.822980792" lon="-122.233117768" visible="true" />
+<node id="-310" lat="47.822980854" lon="-122.233109639" visible="true" />
+<node id="-311" lat="47.822943669" lon="-122.233109016" visible="true" />
+<node id="-312" lat="47.822943606" lon="-122.233117203" visible="true" />
+<node id="-313" lat="47.822881501" lon="-122.233116164" visible="true" />
+<node id="-314" lat="47.822880737" lon="-122.233216734" visible="true" />
+<node id="-315" lat="47.822928133" lon="-122.233217527" visible="true" />
+<node id="-317" lat="47.823001594" lon="-122.23256307" visible="true" />
+<node id="-318" lat="47.822944654" lon="-122.232560528" visible="true" />
+<node id="-319" lat="47.822944746" lon="-122.232556018" visible="true" />
+<node id="-320" lat="47.822920618" lon="-122.232554942" visible="true" />
+<node id="-321" lat="47.822920534" lon="-122.232559076" visible="true" />
+<node id="-322" lat="47.822874813" lon="-122.232557035" visible="true" />
+<node id="-323" lat="47.822873262" lon="-122.232633726" visible="true" />
+<node id="-324" lat="47.822853403" lon="-122.23263284" visible="true" />
+<node id="-325" lat="47.822850903" lon="-122.232756358" visible="true" />
+<node id="-326" lat="47.822940553" lon="-122.232760359" visible="true" />
+<node id="-327" lat="47.822940863" lon="-122.232745097" visible="true" />
+<node id="-328" lat="47.82296272" lon="-122.232746073" visible="true" />
+<node id="-329" lat="47.822963265" lon="-122.23271915" visible="true" />
+<node id="-330" lat="47.822993338" lon="-122.232720493" visible="true" />
+<node id="-331" lat="47.822994971" lon="-122.232639792" visible="true" />
+<node id="-332" lat="47.823000036" lon="-122.232640018" visible="true" />
+<node id="-334" lat="47.823583444" lon="-122.233269275" visible="true" />
+<node id="-335" lat="47.823626219" lon="-122.23317228" visible="true" />
+<node id="-336" lat="47.823616164" lon="-122.233162503" visible="true" />
+<node id="-337" lat="47.823619054" lon="-122.233155952" visible="true" />
+<node id="-338" lat="47.823595725" lon="-122.233133268" visible="true" />
+<node id="-339" lat="47.823626205" lon="-122.233064155" visible="true" />
+<node id="-340" lat="47.823622451" lon="-122.233060506" visible="true" />
+<node id="-341" lat="47.823642515" lon="-122.233015011" visible="true" />
+<node id="-342" lat="47.823611267" lon="-122.232984626" visible="true" />
+<node id="-343" lat="47.82359103" lon="-122.233030518" visible="true" />
+<node id="-344" lat="47.823551679" lon="-122.232992255" visible="true" />
+<node id="-345" lat="47.82354753" lon="-122.233001666" visible="true" />
+<node id="-346" lat="47.82351639" lon="-122.232971387" visible="true" />
+<node id="-347" lat="47.823451823" lon="-122.233117796" visible="true" />
+<node id="-348" lat="47.823489245" lon="-122.233154183" visible="true" />
+<node id="-349" lat="47.823491936" lon="-122.233148081" visible="true" />
+<node id="-350" lat="47.823507964" lon="-122.233163665" visible="true" />
+<node id="-351" lat="47.823514358" lon="-122.233149166" visible="true" />
+<node id="-352" lat="47.823516116" lon="-122.233150875" visible="true" />
+<node id="-353" lat="47.823496326" lon="-122.233195751" visible="true" />
+<node id="-354" lat="47.823554212" lon="-122.233252038" visible="true" />
+<node id="-355" lat="47.823557665" lon="-122.233244208" visible="true" />
+<node id="-357" lat="47.823474138" lon="-122.230694487" visible="true" />
+<node id="-358" lat="47.823472096" lon="-122.230806136" visible="true" />
+<node id="-359" lat="47.823650689" lon="-122.230813337" visible="true" />
+<node id="-360" lat="47.823652828" lon="-122.230696316" visible="true" />
+<node id="-361" lat="47.823602506" lon="-122.230694288" visible="true" />
+<node id="-362" lat="47.82360259" lon="-122.23068972" visible="true" />
+<node id="-363" lat="47.823528094" lon="-122.230686718" visible="true" />
+<node id="-364" lat="47.823527912" lon="-122.230696655" visible="true" />
+<node id="-366" lat="47.822863245" lon="-122.231076508" visible="true" />
+<node id="-367" lat="47.822865919" lon="-122.231175732" visible="true" />
+<node id="-368" lat="47.822897934" lon="-122.23117383" visible="true" />
+<node id="-369" lat="47.822898342" lon="-122.231188985" visible="true" />
+<node id="-370" lat="47.822883591" lon="-122.231189863" visible="true" />
+<node id="-371" lat="47.82288472" lon="-122.231231752" visible="true" />
+<node id="-372" lat="47.822897796" lon="-122.231230974" visible="true" />
+<node id="-373" lat="47.822898713" lon="-122.231264995" visible="true" />
+<node id="-374" lat="47.822983541" lon="-122.231259954" visible="true" />
+<node id="-375" lat="47.822977038" lon="-122.231018729" visible="true" />
+<node id="-376" lat="47.822959505" lon="-122.231019771" visible="true" />
+<node id="-377" lat="47.822957226" lon="-122.230935214" visible="true" />
+<node id="-378" lat="47.822896298" lon="-122.230938835" visible="true" />
+<node id="-379" lat="47.822898552" lon="-122.231022432" visible="true" />
+<node id="-380" lat="47.822896626" lon="-122.231022547" visible="true" />
+<node id="-381" lat="47.822898026" lon="-122.231074441" visible="true" />
+<node id="-383" lat="47.823402548" lon="-122.232718724" visible="true" />
+<node id="-384" lat="47.823459439" lon="-122.232615863" visible="true" />
+<node id="-385" lat="47.823429179" lon="-122.232578961" visible="true" />
+<node id="-386" lat="47.823446755" lon="-122.232547183" visible="true" />
+<node id="-387" lat="47.82336293" lon="-122.232444961" visible="true" />
+<node id="-388" lat="47.823327715" lon="-122.232508631" visible="true" />
+<node id="-389" lat="47.823348864" lon="-122.232534421" visible="true" />
+<node id="-390" lat="47.823341356" lon="-122.232547995" visible="true" />
+<node id="-391" lat="47.823257439" lon="-122.232556183" visible="true" />
+<node id="-392" lat="47.823263313" lon="-122.232661753" visible="true" />
+<node id="-393" lat="47.823277642" lon="-122.232659994" visible="true" />
+<node id="-394" lat="47.823278108" lon="-122.232668372" visible="true" />
+<node id="-395" lat="47.823346868" lon="-122.232659935" visible="true" />
+<node id="-396" lat="47.823369143" lon="-122.232687414" visible="true" />
+<node id="-397" lat="47.823372281" lon="-122.232681814" visible="true" />
+<node id="-399" lat="47.823172887" lon="-122.230784065" visible="true" />
+<node id="-400" lat="47.823374754" lon="-122.230774831" visible="true" />
+<node id="-401" lat="47.823372155" lon="-122.23064949" visible="true" />
+<node id="-402" lat="47.823305449" lon="-122.230641735" visible="true" />
+<node id="-403" lat="47.823169674" lon="-122.230666566" visible="true" />
+<node id="-405" lat="47.823690162" lon="-122.236786993" visible="true" />
+<node id="-406" lat="47.823634553" lon="-122.236838579" visible="true" />
+<node id="-407" lat="47.82366932" lon="-122.236921193" visible="true" />
+<node id="-408" lat="47.82372493" lon="-122.236869566" visible="true" />
+<node id="-410" lat="47.823883363" lon="-122.23633777" visible="true" />
+<node id="-411" lat="47.823819885" lon="-122.236393785" visible="true" />
+<node id="-412" lat="47.82386918" lon="-122.236516978" visible="true" />
+<node id="-413" lat="47.823932686" lon="-122.236460964" visible="true" />
+<node id="-415" lat="47.824170548" lon="-122.236179551" visible="true" />
+<node id="-416" lat="47.823995537" lon="-122.236237147" visible="true" />
+<node id="-417" lat="47.824021482" lon="-122.236410846" visible="true" />
+<node id="-418" lat="47.824196493" lon="-122.23635325" visible="true" />
+<node id="-420" lat="47.823770099" lon="-122.236672348" visible="true" />
+<node id="-421" lat="47.823739945" lon="-122.236698525" visible="true" />
+<node id="-422" lat="47.823812082" lon="-122.236881821" visible="true" />
+<node id="-423" lat="47.823828767" lon="-122.236867329" visible="true" />
+<node id="-424" lat="47.823834111" lon="-122.236880911" visible="true" />
+<node id="-425" lat="47.82392798" lon="-122.236799459" visible="true" />
+<node id="-426" lat="47.823921173" lon="-122.236782174" visible="true" />
+<node id="-427" lat="47.823853716" lon="-122.236610772" visible="true" />
+<node id="-428" lat="47.823822537" lon="-122.236637817" visible="true" />
+<node id="-429" lat="47.82381932" lon="-122.236629669" visible="true" />
+<node id="-431" lat="47.824025008" lon="-122.23750999" visible="true" />
+<node id="-432" lat="47.824020482" lon="-122.237559254" visible="true" />
+<node id="-433" lat="47.824074537" lon="-122.237571631" visible="true" />
+<node id="-434" lat="47.824079064" lon="-122.237522366" visible="true" />
+<node id="-436" lat="47.824453448" lon="-122.231542591" visible="true" />
+<node id="-437" lat="47.824453036" lon="-122.231493379" visible="true" />
+<node id="-438" lat="47.824423476" lon="-122.231493925" visible="true" />
+<node id="-439" lat="47.824423889" lon="-122.231543137" visible="true" />
+<node id="-441" lat="47.822931353" lon="-122.2322147" visible="true" />
+<node id="-442" lat="47.822927684" lon="-122.232214315" visible="true" />
+<node id="-443" lat="47.82292949" lon="-122.232176541" visible="true" />
+<node id="-444" lat="47.822846763" lon="-122.232167876" visible="true" />
+<node id="-445" lat="47.82284492" lon="-122.232206422" visible="true" />
+<node id="-446" lat="47.822843715" lon="-122.232206308" visible="true" />
+<node id="-447" lat="47.822840726" lon="-122.232269049" visible="true" />
+<node id="-448" lat="47.822928356" lon="-122.232278214" visible="true" />
+<node id="-450" lat="47.823479565" lon="-122.234972159" visible="true" />
+<node id="-451" lat="47.823466299" lon="-122.235079082" visible="true" />
+<node id="-452" lat="47.823524589" lon="-122.23509499" visible="true" />
+<node id="-453" lat="47.823537855" lon="-122.234988067" visible="true" />
+<node id="-455" lat="47.824528838" lon="-122.231841792" visible="true" />
+<node id="-456" lat="47.82449282" lon="-122.231840983" visible="true" />
+<node id="-457" lat="47.824493892" lon="-122.231878836" visible="true" />
+<node id="-458" lat="47.824529911" lon="-122.231879645" visible="true" />
+<node id="-460" lat="47.824288963" lon="-122.233940473" visible="true" />
+<node id="-461" lat="47.824266121" lon="-122.233940589" visible="true" />
+<node id="-462" lat="47.824265786" lon="-122.233974658" visible="true" />
+<node id="-463" lat="47.824288628" lon="-122.233974542" visible="true" />
+<node id="-465" lat="47.823479179" lon="-122.232567249" visible="true" />
+<node id="-466" lat="47.82346163" lon="-122.232596416" visible="true" />
+<node id="-467" lat="47.823470665" lon="-122.232608629" visible="true" />
+<node id="-468" lat="47.823488214" lon="-122.232579504" visible="true" />
+<node id="-470" lat="47.824321865" lon="-122.23158972" visible="true" />
+<node id="-471" lat="47.82429719" lon="-122.231614175" visible="true" />
+<node id="-472" lat="47.824316916" lon="-122.231658028" visible="true" />
+<node id="-473" lat="47.824341591" lon="-122.231633572" visible="true" />
+<node id="-475" lat="47.823630744" lon="-122.231425359" visible="true" />
+<node id="-476" lat="47.823539508" lon="-122.23142416" visible="true" />
+<node id="-477" lat="47.823538838" lon="-122.231539403" visible="true" />
+<node id="-478" lat="47.823630076" lon="-122.231540561" visible="true" />
+<node id="-480" lat="47.823773439" lon="-122.233947681" visible="true" />
+<node id="-481" lat="47.823737618" lon="-122.23394621" visible="true" />
+<node id="-482" lat="47.823736761" lon="-122.233992304" visible="true" />
+<node id="-483" lat="47.823772582" lon="-122.233993775" visible="true" />
+<node id="-485" lat="47.82386776" lon="-122.233920985" visible="true" />
+<node id="-486" lat="47.823829076" lon="-122.233918685" visible="true" />
+<node id="-487" lat="47.823827681" lon="-122.233970392" visible="true" />
+<node id="-488" lat="47.823866366" lon="-122.233972692" visible="true" />
+<node id="-490" lat="47.824398227" lon="-122.232407893" visible="true" />
+<node id="-491" lat="47.82439733" lon="-122.232439748" visible="true" />
+<node id="-492" lat="47.824420034" lon="-122.232441159" visible="true" />
+<node id="-493" lat="47.824420932" lon="-122.232409303" visible="true" />
+<node id="-495" lat="47.824035075" lon="-122.231567704" visible="true" />
+<node id="-496" lat="47.824113151" lon="-122.231569809" visible="true" />
+<node id="-497" lat="47.824113876" lon="-122.231510587" visible="true" />
+<node id="-498" lat="47.8240358" lon="-122.231508481" visible="true" />
+<node id="-500" lat="47.823692111" lon="-122.233227151" visible="true" />
+<node id="-501" lat="47.823617419" lon="-122.233224757" visible="true" />
+<node id="-502" lat="47.823616764" lon="-122.233269831" visible="true" />
+<node id="-503" lat="47.823691456" lon="-122.233272225" visible="true" />
+<node id="-505" lat="47.823554594" lon="-122.23134517" visible="true" />
+<node id="-506" lat="47.823552726" lon="-122.231401097" visible="true" />
+<node id="-507" lat="47.823572388" lon="-122.231402545" visible="true" />
+<node id="-508" lat="47.823574256" lon="-122.231346618" visible="true" />
+<node id="-510" lat="47.824289917" lon="-122.230744847" visible="true" />
+<node id="-511" lat="47.824299854" lon="-122.230830839" visible="true" />
+<node id="-512" lat="47.824322265" lon="-122.23082513" visible="true" />
+<node id="-513" lat="47.824315347" lon="-122.230765267" visible="true" />
+<node id="-514" lat="47.82431334" lon="-122.230765778" visible="true" />
+<node id="-515" lat="47.824310321" lon="-122.230739649" visible="true" />
+<node id="-517" lat="47.824288339" lon="-122.230669999" visible="true" />
+<node id="-518" lat="47.824261547" lon="-122.230669779" visible="true" />
+<node id="-519" lat="47.824261396" lon="-122.230710206" visible="true" />
+<node id="-520" lat="47.824288188" lon="-122.230710426" visible="true" />
+<node id="-522" lat="47.823721158" lon="-122.230677802" visible="true" />
+<node id="-523" lat="47.823745497" lon="-122.230678207" visible="true" />
+<node id="-524" lat="47.823745716" lon="-122.230649089" visible="true" />
+<node id="-525" lat="47.823721378" lon="-122.230648684" visible="true" />
+<node id="-527" lat="47.823479397" lon="-122.230686094" visible="true" />
+<node id="-528" lat="47.823519787" lon="-122.230687183" visible="true" />
+<node id="-529" lat="47.82352022" lon="-122.230651801" visible="true" />
+<node id="-530" lat="47.82347983" lon="-122.230650712" visible="true" />
+<node id="-532" lat="47.823428559" lon="-122.230682213" visible="true" />
+<node id="-533" lat="47.823427903" lon="-122.230763527" visible="true" />
+<node id="-534" lat="47.82346698" lon="-122.230764221" visible="true" />
+<node id="-535" lat="47.823467636" lon="-122.230682909" visible="true" />
+<node id="-537" lat="47.822883436" lon="-122.231070526" visible="true" />
+<node id="-538" lat="47.822879921" lon="-122.230915553" visible="true" />
+<node id="-539" lat="47.822831645" lon="-122.230917968" visible="true" />
+<node id="-540" lat="47.822835158" lon="-122.23107294" visible="true" />
+<node id="-542" lat="47.822205577" lon="-122.234186049" visible="true" />
+<node id="-543" lat="47.822231122" lon="-122.234217954" visible="true" />
+<node id="-544" lat="47.822249466" lon="-122.234185571" visible="true" />
+<node id="-545" lat="47.822223923" lon="-122.234153667" visible="true" />
+<node id="-547" lat="47.822857975" lon="-122.233322265" visible="true" />
+<node id="-548" lat="47.82288606" lon="-122.233322316" visible="true" />
+<node id="-549" lat="47.822886043" lon="-122.233284853" visible="true" />
+<node id="-550" lat="47.822857024" lon="-122.233283363" visible="true" />
+<node id="-552" lat="47.823869654" lon="-122.234270313" visible="true" />
+<node id="-553" lat="47.823871685" lon="-122.234038633" visible="true" />
+<node id="-554" lat="47.823798609" lon="-122.23403722" visible="true" />
+<node id="-555" lat="47.823798668" lon="-122.234030489" visible="true" />
+<node id="-556" lat="47.823778202" lon="-122.234030094" visible="true" />
+<node id="-557" lat="47.823778126" lon="-122.234038776" visible="true" />
+<node id="-558" lat="47.823763771" lon="-122.234038497" visible="true" />
+<node id="-559" lat="47.823763847" lon="-122.23402985" visible="true" />
+<node id="-560" lat="47.823752862" lon="-122.234029639" visible="true" />
+<node id="-561" lat="47.82375279" lon="-122.234037862" visible="true" />
+<node id="-562" lat="47.823751238" lon="-122.234037832" visible="true" />
+<node id="-563" lat="47.82375115" lon="-122.234047984" visible="true" />
+<node id="-564" lat="47.823746382" lon="-122.234047893" visible="true" />
+<node id="-565" lat="47.823746095" lon="-122.234080737" visible="true" />
+<node id="-566" lat="47.823750718" lon="-122.234080826" visible="true" />
+<node id="-567" lat="47.823749076" lon="-122.234268113" visible="true" />
+<node id="-568" lat="47.823796035" lon="-122.234269021" visible="true" />
+<node id="-569" lat="47.823796232" lon="-122.234246446" visible="true" />
+<node id="-570" lat="47.823804544" lon="-122.234246607" visible="true" />
+<node id="-571" lat="47.823804347" lon="-122.234269051" visible="true" />
+<node id="-573" lat="47.824010214" lon="-122.234080783" visible="true" />
+<node id="-574" lat="47.823893769" lon="-122.234078138" visible="true" />
+<node id="-575" lat="47.82389229" lon="-122.234221681" visible="true" />
+<node id="-576" lat="47.823890911" lon="-122.234221649" visible="true" />
+<node id="-577" lat="47.823890461" lon="-122.234265312" visible="true" />
+<node id="-578" lat="47.823937125" lon="-122.234266371" visible="true" />
+<node id="-579" lat="47.823937231" lon="-122.234256033" visible="true" />
+<node id="-580" lat="47.823954673" lon="-122.234256429" visible="true" />
+<node id="-581" lat="47.823954876" lon="-122.23423669" visible="true" />
+<node id="-582" lat="47.823960121" lon="-122.234236809" visible="true" />
+<node id="-583" lat="47.823960064" lon="-122.234242342" visible="true" />
+<node id="-584" lat="47.824008538" lon="-122.234243443" visible="true" />
+<node id="-586" lat="47.824029665" lon="-122.234038634" visible="true" />
+<node id="-587" lat="47.824027766" lon="-122.234276302" visible="true" />
+<node id="-588" lat="47.82408999" lon="-122.234277399" visible="true" />
+<node id="-589" lat="47.824090189" lon="-122.234252458" visible="true" />
+<node id="-590" lat="47.824098675" lon="-122.234252607" visible="true" />
+<node id="-591" lat="47.824098478" lon="-122.234277233" visible="true" />
+<node id="-592" lat="47.82414507" lon="-122.234278055" visible="true" />
+<node id="-593" lat="47.824146967" lon="-122.234040701" visible="true" />
+<node id="-595" lat="47.824285208" lon="-122.234085203" visible="true" />
+<node id="-596" lat="47.824168591" lon="-122.234082804" visible="true" />
+<node id="-597" lat="47.824166842" lon="-122.234270284" visible="true" />
+<node id="-598" lat="47.824212793" lon="-122.234271228" visible="true" />
+<node id="-599" lat="47.824212884" lon="-122.234261485" visible="true" />
+<node id="-600" lat="47.82422965" lon="-122.23426183" visible="true" />
+<node id="-601" lat="47.824229842" lon="-122.234241231" visible="true" />
+<node id="-602" lat="47.824235022" lon="-122.234241338" visible="true" />
+<node id="-603" lat="47.824234968" lon="-122.234247143" visible="true" />
+<node id="-604" lat="47.824283688" lon="-122.234248146" visible="true" />
+<node id="-606" lat="47.824362428" lon="-122.23389513" visible="true" />
+<node id="-607" lat="47.824365597" lon="-122.233677953" visible="true" />
+<node id="-608" lat="47.824266167" lon="-122.233674754" visible="true" />
+<node id="-609" lat="47.824262998" lon="-122.233891931" visible="true" />
+<node id="-611" lat="47.824298614" lon="-122.231914199" visible="true" />
+<node id="-612" lat="47.824307822" lon="-122.231824831" visible="true" />
+<node id="-613" lat="47.824298374" lon="-122.231822685" visible="true" />
+<node id="-614" lat="47.82430919" lon="-122.23171772" visible="true" />
+<node id="-615" lat="47.824236868" lon="-122.231701288" visible="true" />
+<node id="-616" lat="47.824240756" lon="-122.231663568" visible="true" />
+<node id="-617" lat="47.824191655" lon="-122.231652413" visible="true" />
+<node id="-618" lat="47.824186566" lon="-122.231701796" visible="true" />
+<node id="-619" lat="47.824219195" lon="-122.231709208" visible="true" />
+<node id="-620" lat="47.824200373" lon="-122.231891879" visible="true" />
+<node id="-622" lat="47.824342392" lon="-122.231431152" visible="true" />
+<node id="-623" lat="47.824342867" lon="-122.231309418" visible="true" />
+<node id="-624" lat="47.824214581" lon="-122.231308315" visible="true" />
+<node id="-625" lat="47.824214105" lon="-122.231430049" visible="true" />
+<node id="-627" lat="47.82401896" lon="-122.23480542" visible="true" />
+<node id="-628" lat="47.824079721" lon="-122.23480738" visible="true" />
+<node id="-629" lat="47.824080571" lon="-122.234749279" visible="true" />
+<node id="-630" lat="47.824082848" lon="-122.234749353" visible="true" />
+<node id="-631" lat="47.824082955" lon="-122.234742064" visible="true" />
+<node id="-632" lat="47.824115196" lon="-122.234743103" visible="true" />
+<node id="-633" lat="47.824117255" lon="-122.234602325" visible="true" />
+<node id="-634" lat="47.82411922" lon="-122.234602389" visible="true" />
+<node id="-635" lat="47.824119376" lon="-122.23459172" visible="true" />
+<node id="-636" lat="47.824084911" lon="-122.234590608" visible="true" />
+<node id="-637" lat="47.824085389" lon="-122.23455793" visible="true" />
+<node id="-638" lat="47.824014782" lon="-122.234555654" visible="true" />
+<node id="-639" lat="47.824013788" lon="-122.234623604" visible="true" />
+<node id="-640" lat="47.82401737" lon="-122.23462372" visible="true" />
+<node id="-641" lat="47.824015579" lon="-122.234746092" visible="true" />
+<node id="-642" lat="47.824019825" lon="-122.23474623" visible="true" />
+<node id="-644" lat="47.824426555" lon="-122.234087997" visible="true" />
+<node id="-645" lat="47.824393244" lon="-122.234085427" visible="true" />
+<node id="-646" lat="47.824394078" lon="-122.23406216" visible="true" />
+<node id="-647" lat="47.824328032" lon="-122.234057078" visible="true" />
+<node id="-648" lat="47.824326009" lon="-122.234114757" visible="true" />
+<node id="-649" lat="47.824308586" lon="-122.234113431" visible="true" />
+<node id="-650" lat="47.824306095" lon="-122.234184736" visible="true" />
+<node id="-651" lat="47.824311683" lon="-122.234185131" visible="true" />
+<node id="-652" lat="47.824309783" lon="-122.234239516" visible="true" />
+<node id="-653" lat="47.824323671" lon="-122.234240624" visible="true" />
+<node id="-654" lat="47.82432316" lon="-122.23425543" visible="true" />
+<node id="-655" lat="47.824392986" lon="-122.234260778" visible="true" />
+<node id="-656" lat="47.824393794" lon="-122.234237389" visible="true" />
+<node id="-657" lat="47.824421243" lon="-122.234239515" visible="true" />
+<node id="-659" lat="47.823876241" lon="-122.234576272" visible="true" />
+<node id="-660" lat="47.823846531" lon="-122.234575264" visible="true" />
+<node id="-661" lat="47.823846995" lon="-122.234546411" visible="true" />
+<node id="-662" lat="47.82377357" lon="-122.234543857" visible="true" />
+<node id="-663" lat="47.82377054" lon="-122.23473733" visible="true" />
+<node id="-664" lat="47.823873674" lon="-122.234740892" visible="true" />
+<node id="-666" lat="47.823900315" lon="-122.234587509" visible="true" />
+<node id="-667" lat="47.82389835" lon="-122.234747748" visible="true" />
+<node id="-668" lat="47.823998013" lon="-122.234750442" visible="true" />
+<node id="-669" lat="47.82400032" lon="-122.234562322" visible="true" />
+<node id="-670" lat="47.823931712" lon="-122.234560469" visible="true" />
+<node id="-671" lat="47.823931371" lon="-122.234588347" visible="true" />
+<node id="-673" lat="47.82362725" lon="-122.234685616" visible="true" />
+<node id="-674" lat="47.823625942" lon="-122.234792252" visible="true" />
+<node id="-675" lat="47.823750028" lon="-122.234795608" visible="true" />
+<node id="-676" lat="47.823752473" lon="-122.234596215" visible="true" />
+<node id="-677" lat="47.823691595" lon="-122.234594568" visible="true" />
+<node id="-678" lat="47.823690941" lon="-122.234647886" visible="true" />
+<node id="-679" lat="47.823657391" lon="-122.234646979" visible="true" />
+<node id="-680" lat="47.823656907" lon="-122.234686418" visible="true" />
+<node id="-682" lat="47.823598661" lon="-122.234157106" visible="true" />
+<node id="-683" lat="47.823566359" lon="-122.234005142" visible="true" />
+<node id="-684" lat="47.823532245" lon="-122.234021117" visible="true" />
+<node id="-685" lat="47.823529705" lon="-122.234009161" visible="true" />
+<node id="-686" lat="47.823471075" lon="-122.234036605" visible="true" />
+<node id="-687" lat="47.823513252" lon="-122.234235209" visible="true" />
+<node id="-688" lat="47.823583079" lon="-122.234202488" visible="true" />
+<node id="-689" lat="47.823575716" lon="-122.234167845" visible="true" />
+<node id="-691" lat="47.823448275" lon="-122.2340423" visible="true" />
+<node id="-692" lat="47.823380297" lon="-122.234074133" visible="true" />
+<node id="-693" lat="47.823384936" lon="-122.23409608" visible="true" />
+<node id="-694" lat="47.823353028" lon="-122.234111016" visible="true" />
+<node id="-695" lat="47.823385639" lon="-122.234264574" visible="true" />
+<node id="-696" lat="47.823417573" lon="-122.234249641" visible="true" />
+<node id="-697" lat="47.823422888" lon="-122.23427466" visible="true" />
+<node id="-698" lat="47.823490867" lon="-122.234242828" visible="true" />
+<node id="-700" lat="47.823983538" lon="-122.235078862" visible="true" />
+<node id="-701" lat="47.823807599" lon="-122.235086929" visible="true" />
+<node id="-702" lat="47.823810242" lon="-122.23521354" visible="true" />
+<node id="-703" lat="47.82398618" lon="-122.235205473" visible="true" />
+<node id="-705" lat="47.824240797" lon="-122.234999667" visible="true" />
+<node id="-706" lat="47.824053215" lon="-122.235002493" visible="true" />
+<node id="-707" lat="47.82405401" lon="-122.235118795" visible="true" />
+<node id="-708" lat="47.824241592" lon="-122.235115969" visible="true" />
+<node id="-710" lat="47.823617389" lon="-122.234999989" visible="true" />
+<node id="-711" lat="47.823548855" lon="-122.235001108" visible="true" />
+<node id="-712" lat="47.82355009" lon="-122.235170919" visible="true" />
+<node id="-713" lat="47.823736358" lon="-122.235167896" visible="true" />
+<node id="-714" lat="47.823735444" lon="-122.235041291" visible="true" />
+<node id="-715" lat="47.823668856" lon="-122.23504238" visible="true" />
+<node id="-716" lat="47.823668743" lon="-122.235024829" visible="true" />
+<node id="-717" lat="47.823617568" lon="-122.235025643" visible="true" />
+<node id="-719" lat="47.823737853" lon="-122.233628121" visible="true" />
+<node id="-720" lat="47.823671623" lon="-122.233626943" visible="true" />
+<node id="-721" lat="47.823671162" lon="-122.233682424" visible="true" />
+<node id="-722" lat="47.82365296" lon="-122.233682095" visible="true" />
+<node id="-723" lat="47.823653098" lon="-122.233664143" visible="true" />
+<node id="-724" lat="47.823620886" lon="-122.233663599" visible="true" />
+<node id="-725" lat="47.823620816" lon="-122.233673776" visible="true" />
+<node id="-726" lat="47.823581972" lon="-122.233673093" visible="true" />
+<node id="-727" lat="47.82358114" lon="-122.23377453" visible="true" />
+<node id="-728" lat="47.823576288" lon="-122.23377444" visible="true" />
+<node id="-729" lat="47.823575594" lon="-122.233857885" visible="true" />
+<node id="-730" lat="47.823583572" lon="-122.233858019" visible="true" />
+<node id="-731" lat="47.823583436" lon="-122.233873568" visible="true" />
+<node id="-732" lat="47.82361403" lon="-122.23387411" visible="true" />
+<node id="-733" lat="47.823614116" lon="-122.23386031" visible="true" />
+<node id="-734" lat="47.823765574" lon="-122.233863018" visible="true" />
+<node id="-735" lat="47.823767443" lon="-122.233634458" visible="true" />
+<node id="-736" lat="47.82373781" lon="-122.233633943" visible="true" />
+<node id="-738" lat="47.823461278" lon="-122.233596628" visible="true" />
+<node id="-739" lat="47.823390649" lon="-122.233596348" visible="true" />
+<node id="-740" lat="47.823390657" lon="-122.233602415" visible="true" />
+<node id="-741" lat="47.823362362" lon="-122.233602303" visible="true" />
+<node id="-742" lat="47.823362191" lon="-122.233701232" visible="true" />
+<node id="-743" lat="47.823387991" lon="-122.23370136" visible="true" />
+<node id="-744" lat="47.823387783" lon="-122.233807781" visible="true" />
+<node id="-745" lat="47.823423482" lon="-122.233807889" visible="true" />
+<node id="-746" lat="47.823423454" lon="-122.233828083" visible="true" />
+<node id="-747" lat="47.82355251" lon="-122.233828598" visible="true" />
+<node id="-748" lat="47.823552764" lon="-122.233682523" visible="true" />
+<node id="-749" lat="47.823520823" lon="-122.233682393" visible="true" />
+<node id="-750" lat="47.823520827" lon="-122.233675349" visible="true" />
+<node id="-751" lat="47.823490695" lon="-122.233675227" visible="true" />
+<node id="-752" lat="47.8234907" lon="-122.233663542" visible="true" />
+<node id="-753" lat="47.823461171" lon="-122.233663437" visible="true" />
+<node id="-755" lat="47.824354263" lon="-122.232491163" visible="true" />
+<node id="-756" lat="47.824349093" lon="-122.232490168" visible="true" />
+<node id="-757" lat="47.824350333" lon="-122.232476238" visible="true" />
+<node id="-758" lat="47.824306703" lon="-122.232467772" visible="true" />
+<node id="-759" lat="47.824161632" lon="-122.232456201" visible="true" />
+<node id="-760" lat="47.824140801" lon="-122.232692923" visible="true" />
+<node id="-761" lat="47.824209104" lon="-122.232706208" visible="true" />
+<node id="-762" lat="47.824209965" lon="-122.232696379" visible="true" />
+<node id="-763" lat="47.82424041" lon="-122.23270229" visible="true" />
+<node id="-764" lat="47.824244426" lon="-122.232656513" visible="true" />
+<node id="-765" lat="47.824257145" lon="-122.232658974" visible="true" />
+<node id="-766" lat="47.824256095" lon="-122.232670874" visible="true" />
+<node id="-767" lat="47.824277541" lon="-122.232675036" visible="true" />
+<node id="-768" lat="47.824277314" lon="-122.232677799" visible="true" />
+<node id="-769" lat="47.824331723" lon="-122.232688347" visible="true" />
+<node id="-770" lat="47.824341469" lon="-122.23257754" visible="true" />
+<node id="-771" lat="47.824346995" lon="-122.232578586" visible="true" />
+<node id="-772" lat="47.824349574" lon="-122.232549381" visible="true" />
+<node id="-773" lat="47.824345553" lon="-122.232548621" visible="true" />
+<node id="-774" lat="47.824347589" lon="-122.232525592" visible="true" />
+<node id="-775" lat="47.824351173" lon="-122.232526299" visible="true" />
+<node id="-777" lat="47.824483355" lon="-122.232007129" visible="true" />
+<node id="-778" lat="47.824340975" lon="-122.232008783" visible="true" />
+<node id="-779" lat="47.824341059" lon="-122.232024297" visible="true" />
+<node id="-780" lat="47.824232902" lon="-122.232025572" visible="true" />
+<node id="-781" lat="47.82423353" lon="-122.232142277" visible="true" />
+<node id="-782" lat="47.824289199" lon="-122.232141622" visible="true" />
+<node id="-783" lat="47.824289298" lon="-122.232160313" visible="true" />
+<node id="-784" lat="47.824484168" lon="-122.23215804" visible="true" />
+<node id="-786" lat="47.824525494" lon="-122.23160641" visible="true" />
+<node id="-787" lat="47.824417643" lon="-122.231605088" visible="true" />
+<node id="-788" lat="47.824416664" lon="-122.23177924" visible="true" />
+<node id="-789" lat="47.824539785" lon="-122.23178073" visible="true" />
+<node id="-790" lat="47.824540309" lon="-122.231684209" visible="true" />
+<node id="-791" lat="47.824525066" lon="-122.231684001" visible="true" />
+<node id="-793" lat="47.824610653" lon="-122.231369386" visible="true" />
+<node id="-794" lat="47.824550374" lon="-122.231347809" visible="true" />
+<node id="-795" lat="47.824552036" lon="-122.231337513" visible="true" />
+<node id="-796" lat="47.824501805" lon="-122.231319546" visible="true" />
+<node id="-797" lat="47.824507497" lon="-122.231284561" visible="true" />
+<node id="-798" lat="47.82443578" lon="-122.231258931" visible="true" />
+<node id="-799" lat="47.824408972" lon="-122.231424121" visible="true" />
+<node id="-800" lat="47.824591198" lon="-122.231489335" visible="true" />
+<node id="-802" lat="47.824075444" lon="-122.231327792" visible="true" />
+<node id="-803" lat="47.823944323" lon="-122.231325761" visible="true" />
+<node id="-804" lat="47.823944209" lon="-122.231344079" visible="true" />
+<node id="-805" lat="47.823884473" lon="-122.231343161" visible="true" />
+<node id="-806" lat="47.823883749" lon="-122.231449446" visible="true" />
+<node id="-807" lat="47.823943785" lon="-122.231450374" visible="true" />
+<node id="-808" lat="47.823943735" lon="-122.231454444" visible="true" />
+<node id="-809" lat="47.824074556" lon="-122.231456425" visible="true" />
+<node id="-811" lat="47.823797433" lon="-122.231297045" visible="true" />
+<node id="-812" lat="47.823605213" lon="-122.231291209" visible="true" />
+<node id="-813" lat="47.823603596" lon="-122.231407729" visible="true" />
+<node id="-814" lat="47.823709532" lon="-122.231410954" visible="true" />
+<node id="-815" lat="47.823708792" lon="-122.231464718" visible="true" />
+<node id="-816" lat="47.823795103" lon="-122.231467331" visible="true" />
+<node id="-818" lat="47.824206433" lon="-122.230719669" visible="true" />
+<node id="-819" lat="47.824130387" lon="-122.230713995" visible="true" />
+<node id="-820" lat="47.824131335" lon="-122.230685846" visible="true" />
+<node id="-821" lat="47.824084545" lon="-122.230682346" visible="true" />
+<node id="-822" lat="47.824083599" lon="-122.230710413" visible="true" />
+<node id="-823" lat="47.824044945" lon="-122.230707539" visible="true" />
+<node id="-824" lat="47.824041401" lon="-122.230811305" visible="true" />
+<node id="-825" lat="47.824073753" lon="-122.230813726" visible="true" />
+<node id="-826" lat="47.824073117" lon="-122.230832112" visible="true" />
+<node id="-827" lat="47.82420228" lon="-122.230841782" visible="true" />
+<node id="-829" lat="47.82450025" lon="-122.230668758" visible="true" />
+<node id="-830" lat="47.824321723" lon="-122.230727053" visible="true" />
+<node id="-831" lat="47.824344872" lon="-122.230883452" visible="true" />
+<node id="-832" lat="47.824411327" lon="-122.23086175" visible="true" />
+<node id="-833" lat="47.824405402" lon="-122.230821649" visible="true" />
+<node id="-834" lat="47.824517473" lon="-122.230785056" visible="true" />
+<node id="-836" lat="47.823349995" lon="-122.234866015" visible="true" />
+<node id="-837" lat="47.823185699" lon="-122.234928588" visible="true" />
+<node id="-838" lat="47.823198908" lon="-122.235005161" visible="true" />
+<node id="-839" lat="47.823238329" lon="-122.234990185" visible="true" />
+<node id="-840" lat="47.823262368" lon="-122.235129385" visible="true" />
+<node id="-841" lat="47.823350631" lon="-122.235095822" visible="true" />
+<node id="-842" lat="47.823331124" lon="-122.234982801" visible="true" />
+<node id="-843" lat="47.823367763" lon="-122.234968851" visible="true" />
+<node id="-845" lat="47.823220084" lon="-122.231844627" visible="true" />
+<node id="-846" lat="47.82308233" lon="-122.231866926" visible="true" />
+<node id="-847" lat="47.823091496" lon="-122.231991798" visible="true" />
+<node id="-848" lat="47.823166636" lon="-122.231979657" visible="true" />
+<node id="-849" lat="47.823169525" lon="-122.232019146" visible="true" />
+<node id="-850" lat="47.823232138" lon="-122.232009029" visible="true" />
+<node id="-852" lat="47.823313341" lon="-122.231288508" visible="true" />
+<node id="-853" lat="47.823305139" lon="-122.23140538" visible="true" />
+<node id="-854" lat="47.823498188" lon="-122.23143526" visible="true" />
+<node id="-855" lat="47.823506854" lon="-122.231311885" visible="true" />
+<node id="-856" lat="47.823390215" lon="-122.231293838" visible="true" />
+<node id="-857" lat="47.823389751" lon="-122.23130034" visible="true" />
+<node id="-859" lat="47.823094859" lon="-122.231277851" visible="true" />
+<node id="-860" lat="47.823065453" lon="-122.231263093" visible="true" />
+<node id="-861" lat="47.823047836" lon="-122.231340463" visible="true" />
+<node id="-862" lat="47.823076995" lon="-122.231355092" visible="true" />
+<node id="-863" lat="47.823075837" lon="-122.23136015" visible="true" />
+<node id="-864" lat="47.823202204" lon="-122.23142357" visible="true" />
+<node id="-865" lat="47.823227674" lon="-122.231311684" visible="true" />
+<node id="-866" lat="47.823101552" lon="-122.231248392" visible="true" />
+<node id="-871" lat="47.823015896" lon="-122.233507035" visible="true" />
+<node id="-872" lat="47.823017323" lon="-122.233362988" visible="true" />
+<node id="-873" lat="47.822934982" lon="-122.233361191" visible="true" />
+<node id="-874" lat="47.822934448" lon="-122.23341515" visible="true" />
+<node id="-875" lat="47.822867912" lon="-122.233413697" visible="true" />
+<node id="-876" lat="47.822866322" lon="-122.233574312" visible="true" />
+<node id="-877" lat="47.82288184" lon="-122.233574651" visible="true" />
+<node id="-878" lat="47.822881399" lon="-122.23361917" visible="true" />
+<node id="-879" lat="47.822906812" lon="-122.233619726" visible="true" />
+<node id="-880" lat="47.822906729" lon="-122.233628121" visible="true" />
+<node id="-881" lat="47.822972863" lon="-122.233629565" visible="true" />
+<node id="-882" lat="47.82297369" lon="-122.233546063" visible="true" />
+<node id="-883" lat="47.822975694" lon="-122.233546107" visible="true" />
+<node id="-884" lat="47.82297609" lon="-122.233506165" visible="true" />
+<node id="-886" lat="47.823078746" lon="-122.233941176" visible="true" />
+<node id="-887" lat="47.823080342" lon="-122.233838552" visible="true" />
+<node id="-888" lat="47.822995043" lon="-122.233835627" visible="true" />
+<node id="-889" lat="47.822995809" lon="-122.233786298" visible="true" />
+<node id="-890" lat="47.82300148" lon="-122.233786491" visible="true" />
+<node id="-891" lat="47.82300249" lon="-122.233721518" visible="true" />
+<node id="-892" lat="47.822996953" lon="-122.233721328" visible="true" />
+<node id="-893" lat="47.822997709" lon="-122.233672705" visible="true" />
+<node id="-894" lat="47.822871699" lon="-122.233668386" visible="true" />
+<node id="-895" lat="47.82287095" lon="-122.233716487" visible="true" />
+<node id="-896" lat="47.822860821" lon="-122.23371614" visible="true" />
+<node id="-897" lat="47.822859545" lon="-122.233798181" visible="true" />
+<node id="-898" lat="47.822895758" lon="-122.233799421" visible="true" />
+<node id="-899" lat="47.822895078" lon="-122.233843151" visible="true" />
+<node id="-900" lat="47.822870429" lon="-122.233842306" visible="true" />
+<node id="-901" lat="47.822869265" lon="-122.23391718" visible="true" />
+<node id="-902" lat="47.822893405" lon="-122.233918007" visible="true" />
+<node id="-903" lat="47.822893159" lon="-122.233933815" visible="true" />
+<node id="-904" lat="47.822937289" lon="-122.233935327" visible="true" />
+<node id="-905" lat="47.82293725" lon="-122.233937767" visible="true" />
+<node id="-906" lat="47.822965372" lon="-122.233938732" visible="true" />
+<node id="-907" lat="47.822965394" lon="-122.23393729" visible="true" />
+<node id="-910" lat="47.823732684" lon="-122.234072969" visible="true" />
+<node id="-911" lat="47.823616477" lon="-122.234071585" visible="true" />
+<node id="-912" lat="47.823615466" lon="-122.23425875" visible="true" />
+<node id="-913" lat="47.823661147" lon="-122.234259294" visible="true" />
+<node id="-914" lat="47.823661202" lon="-122.234249229" visible="true" />
+<node id="-915" lat="47.823678865" lon="-122.234249439" visible="true" />
+<node id="-916" lat="47.823678973" lon="-122.234229434" visible="true" />
+<node id="-917" lat="47.823683387" lon="-122.234229486" visible="true" />
+<node id="-918" lat="47.823683355" lon="-122.234235553" visible="true" />
+<node id="-919" lat="47.823731802" lon="-122.23423613" visible="true" />
+<node id="-946" lat="47.822264616" lon="-122.233939131" visible="true" />
+<node id="-947" lat="47.822264233" lon="-122.234053082" visible="true" />
+<node id="-948" lat="47.822407042" lon="-122.234054139" visible="true" />
+<node id="-949" lat="47.822407352" lon="-122.233961986" visible="true" />
+<node id="-950" lat="47.822368615" lon="-122.2339617" visible="true" />
+<node id="-951" lat="47.822368689" lon="-122.233939902" visible="true" />
+<node id="-953" lat="47.822919094" lon="-122.234766226" visible="true" />
+<node id="-954" lat="47.822920517" lon="-122.234553652" visible="true" />
+<node id="-955" lat="47.822922559" lon="-122.234553683" visible="true" />
+<node id="-956" lat="47.822922712" lon="-122.234530842" visible="true" />
+<node id="-957" lat="47.822861109" lon="-122.234529932" visible="true" />
+<node id="-958" lat="47.822860979" lon="-122.234549504" visible="true" />
+<node id="-959" lat="47.822857849" lon="-122.234549458" visible="true" />
+<node id="-960" lat="47.822857592" lon="-122.234587783" visible="true" />
+<node id="-961" lat="47.822846029" lon="-122.234587612" visible="true" />
+<node id="-962" lat="47.822845836" lon="-122.234616358" visible="true" />
+<node id="-963" lat="47.822842979" lon="-122.234616316" visible="true" />
+<node id="-964" lat="47.822841983" lon="-122.234765088" visible="true" />
+<node id="-966" lat="47.822849632" lon="-122.234064949" visible="true" />
+<node id="-967" lat="47.822848347" lon="-122.234238744" visible="true" />
+<node id="-968" lat="47.822862106" lon="-122.234238969" visible="true" />
+<node id="-969" lat="47.822861981" lon="-122.234255932" visible="true" />
+<node id="-970" lat="47.822881564" lon="-122.234256252" visible="true" />
+<node id="-971" lat="47.822881442" lon="-122.234272666" visible="true" />
+<node id="-972" lat="47.822925076" lon="-122.234273377" visible="true" />
+<node id="-973" lat="47.822926608" lon="-122.234066204" visible="true" />
+<node id="-975" lat="47.822752913" lon="-122.234066728" visible="true" />
+<node id="-976" lat="47.822752123" lon="-122.2342069" visible="true" />
+<node id="-977" lat="47.82275499" lon="-122.234206935" visible="true" />
+<node id="-978" lat="47.822754578" lon="-122.234280207" visible="true" />
+<node id="-979" lat="47.822815593" lon="-122.234280964" visible="true" />
+<node id="-980" lat="47.822815999" lon="-122.234208709" visible="true" />
+<node id="-981" lat="47.822829491" lon="-122.234208877" visible="true" />
+<node id="-982" lat="47.822830286" lon="-122.234067688" visible="true" />
+<node id="-984" lat="47.822946627" lon="-122.234068324" visible="true" />
+<node id="-985" lat="47.822944946" lon="-122.234274364" visible="true" />
+<node id="-986" lat="47.822947294" lon="-122.234274406" visible="true" />
+<node id="-987" lat="47.822947231" lon="-122.234282241" visible="true" />
+<node id="-988" lat="47.823007314" lon="-122.234283322" visible="true" />
+<node id="-989" lat="47.823007636" lon="-122.234243834" visible="true" />
+<node id="-990" lat="47.823021463" lon="-122.234244082" visible="true" />
+<node id="-991" lat="47.823022886" lon="-122.234069695" visible="true" />
+<node id="-993" lat="47.822812612" lon="-122.234530151" visible="true" />
+<node id="-994" lat="47.822751773" lon="-122.234528506" visible="true" />
+<node id="-995" lat="47.822751631" lon="-122.23454005" visible="true" />
+<node id="-996" lat="47.822747744" lon="-122.234539945" visible="true" />
+<node id="-997" lat="47.822745227" lon="-122.234745209" visible="true" />
+<node id="-998" lat="47.822822628" lon="-122.234747301" visible="true" />
+<node id="-999" lat="47.822824739" lon="-122.234575161" visible="true" />
+<node id="-1000" lat="47.822810205" lon="-122.234574768" visible="true" />
+<node id="-1001" lat="47.822810331" lon="-122.23456448" visible="true" />
+<node id="-1002" lat="47.82281219" lon="-122.23456453" visible="true" />
+<node id="-1004" lat="47.823015961" lon="-122.234752404" visible="true" />
+<node id="-1005" lat="47.823017002" lon="-122.234612363" visible="true" />
+<node id="-1006" lat="47.823003173" lon="-122.234612136" visible="true" />
+<node id="-1007" lat="47.823003583" lon="-122.234557028" visible="true" />
+<node id="-1008" lat="47.823005009" lon="-122.234557051" visible="true" />
+<node id="-1009" lat="47.823005178" lon="-122.234534446" visible="true" />
+<node id="-1010" lat="47.822942709" lon="-122.234533422" visible="true" />
+<node id="-1011" lat="47.822942132" lon="-122.234611072" visible="true" />
+<node id="-1012" lat="47.822939744" lon="-122.234611033" visible="true" />
+<node id="-1013" lat="47.822938702" lon="-122.234751138" visible="true" />
+<node id="-1015" lat="47.822278537" lon="-122.234196358" visible="true" />
+<node id="-1016" lat="47.822379114" lon="-122.23419707" visible="true" />
+<node id="-1017" lat="47.822379178" lon="-122.234177226" visible="true" />
+<node id="-1018" lat="47.822416115" lon="-122.234177488" visible="true" />
+<node id="-1019" lat="47.822416402" lon="-122.234088015" visible="true" />
+<node id="-1020" lat="47.822278887" lon="-122.234087044" visible="true" />
+<node id="-1022" lat="47.822725571" lon="-122.23476275" visible="true" />
+<node id="-1023" lat="47.822727492" lon="-122.234550943" visible="true" />
+<node id="-1024" lat="47.822729022" lon="-122.234550974" visible="true" />
+<node id="-1025" lat="47.822729234" lon="-122.234527634" visible="true" />
+<node id="-1026" lat="47.822668622" lon="-122.234526422" visible="true" />
+<node id="-1027" lat="47.822668439" lon="-122.23454656" visible="true" />
+<node id="-1028" lat="47.822664136" lon="-122.234546475" visible="true" />
+<node id="-1029" lat="47.822663792" lon="-122.234584344" visible="true" />
+<node id="-1030" lat="47.822650067" lon="-122.234584069" visible="true" />
+<node id="-1031" lat="47.82264846" lon="-122.234761209" visible="true" />
+<node id="-1034" lat="47.823697596" lon="-122.235728135" visible="true" />
+<node id="-1035" lat="47.823687188" lon="-122.235727161" visible="true" />
+<node id="-1036" lat="47.823688158" lon="-122.235663795" visible="true" />
+<node id="-1037" lat="47.823324968" lon="-122.235654415" visible="true" />
+<node id="-1038" lat="47.82332495" lon="-122.235716219" visible="true" />
+<node id="-1039" lat="47.823313089" lon="-122.235715247" visible="true" />
+<node id="-1040" lat="47.823314086" lon="-122.235756883" visible="true" />
+<node id="-1041" lat="47.82332428" lon="-122.235757363" visible="true" />
+<node id="-1042" lat="47.823323199" lon="-122.235867832" visible="true" />
+<node id="-1043" lat="47.823685713" lon="-122.235878618" visible="true" />
+<node id="-1044" lat="47.823687181" lon="-122.235770195" visible="true" />
+<node id="-1045" lat="47.823697187" lon="-122.235770385" visible="true" />
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-2" /><tag k="building" v="church" /><tag k="name" v="Northlake Christian Church" /></way>
+<way id="-9" visible="true"><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-13" /><nd ref="-14" /><nd ref="-15" /><nd ref="-16" /><nd ref="-17" /><nd ref="-18" /><nd ref="-19" /><nd ref="-20" /><nd ref="-21" /><nd ref="-10" /><tag k="building" v="yes" /></way>
+<way id="-22" visible="true"><nd ref="-23" /><nd ref="-24" /><nd ref="-25" /><nd ref="-26" /><nd ref="-27" /><nd ref="-28" /><nd ref="-29" /><nd ref="-30" /><nd ref="-31" /><nd ref="-32" /><nd ref="-33" /><nd ref="-34" /><nd ref="-35" /><nd ref="-36" /><nd ref="-37" /><nd ref="-38" /><nd ref="-39" /><nd ref="-40" /><nd ref="-23" /><tag k="building" v="yes" /></way>
+<way id="-41" visible="true"><nd ref="-42" /><nd ref="-43" /><nd ref="-44" /><nd ref="-45" /><nd ref="-46" /><nd ref="-47" /><nd ref="-48" /><nd ref="-49" /><nd ref="-50" /><nd ref="-51" /><nd ref="-52" /><nd ref="-53" /><nd ref="-54" /><nd ref="-55" /><nd ref="-56" /><nd ref="-57" /><nd ref="-58" /><nd ref="-59" /><nd ref="-60" /><nd ref="-61" /><nd ref="-62" /><nd ref="-63" /><nd ref="-64" /><nd ref="-42" /><tag k="building" v="yes" /></way>
+<way id="-65" visible="true"><nd ref="-66" /><nd ref="-67" /><nd ref="-68" /><nd ref="-69" /><nd ref="-70" /><nd ref="-71" /><nd ref="-72" /><nd ref="-73" /><nd ref="-74" /><nd ref="-75" /><nd ref="-76" /><nd ref="-77" /><nd ref="-78" /><nd ref="-79" /><nd ref="-66" /><tag k="building" v="yes" /></way>
+<way id="-80" visible="true"><nd ref="-81" /><nd ref="-82" /><nd ref="-83" /><nd ref="-84" /><nd ref="-85" /><nd ref="-86" /><nd ref="-87" /><nd ref="-88" /><nd ref="-89" /><nd ref="-90" /><nd ref="-91" /><nd ref="-92" /><nd ref="-81" /><tag k="building" v="yes" /></way>
+<way id="-93" visible="true"><nd ref="-94" /><nd ref="-95" /><nd ref="-96" /><nd ref="-97" /><nd ref="-98" /><nd ref="-99" /><nd ref="-100" /><nd ref="-101" /><nd ref="-102" /><nd ref="-103" /><nd ref="-104" /><nd ref="-105" /><nd ref="-106" /><nd ref="-107" /><nd ref="-108" /><nd ref="-109" /><nd ref="-110" /><nd ref="-111" /><nd ref="-94" /><tag k="building" v="yes" /></way>
+<way id="-112" visible="true"><nd ref="-113" /><nd ref="-114" /><nd ref="-115" /><nd ref="-116" /><nd ref="-117" /><nd ref="-118" /><nd ref="-119" /><nd ref="-120" /><nd ref="-121" /><nd ref="-122" /><nd ref="-123" /><nd ref="-124" /><nd ref="-113" /><tag k="building" v="yes" /></way>
+<way id="-125" visible="true"><nd ref="-126" /><nd ref="-127" /><nd ref="-128" /><nd ref="-129" /><nd ref="-130" /><nd ref="-131" /><nd ref="-132" /><nd ref="-133" /><nd ref="-134" /><nd ref="-135" /><nd ref="-136" /><nd ref="-137" /><nd ref="-138" /><nd ref="-139" /><nd ref="-126" /><tag k="building" v="yes" /></way>
+<way id="-140" visible="true"><nd ref="-141" /><nd ref="-142" /><nd ref="-143" /><nd ref="-144" /><nd ref="-141" /><tag k="building" v="yes" /></way>
+<way id="-145" visible="true"><nd ref="-146" /><nd ref="-147" /><nd ref="-148" /><nd ref="-149" /><nd ref="-150" /><nd ref="-151" /><nd ref="-152" /><nd ref="-153" /><nd ref="-154" /><nd ref="-155" /><nd ref="-156" /><nd ref="-157" /><nd ref="-146" /><tag k="building" v="yes" /></way>
+<way id="-158" visible="true"><nd ref="-159" /><nd ref="-160" /><nd ref="-161" /><nd ref="-162" /><nd ref="-163" /><nd ref="-164" /><nd ref="-165" /><nd ref="-166" /><nd ref="-167" /><nd ref="-168" /><nd ref="-169" /><nd ref="-170" /><nd ref="-171" /><nd ref="-159" /><tag k="building" v="yes" /></way>
+<way id="-172" visible="true"><nd ref="-173" /><nd ref="-174" /><nd ref="-175" /><nd ref="-176" /><nd ref="-177" /><nd ref="-178" /><nd ref="-179" /><nd ref="-180" /><nd ref="-181" /><nd ref="-182" /><nd ref="-183" /><nd ref="-184" /><nd ref="-185" /><nd ref="-186" /><nd ref="-187" /><nd ref="-188" /><nd ref="-173" /><tag k="building" v="yes" /></way>
+<way id="-189" visible="true"><nd ref="-190" /><nd ref="-191" /><nd ref="-192" /><nd ref="-193" /><nd ref="-190" /><tag k="building" v="yes" /></way>
+<way id="-194" visible="true"><nd ref="-195" /><nd ref="-196" /><nd ref="-197" /><nd ref="-198" /><nd ref="-195" /><tag k="building" v="yes" /></way>
+<way id="-199" visible="true"><nd ref="-200" /><nd ref="-201" /><nd ref="-202" /><nd ref="-203" /><nd ref="-200" /><tag k="building" v="yes" /></way>
+<way id="-204" visible="true"><nd ref="-205" /><nd ref="-206" /><nd ref="-207" /><nd ref="-208" /><nd ref="-209" /><nd ref="-210" /><nd ref="-211" /><nd ref="-212" /><nd ref="-213" /><nd ref="-214" /><nd ref="-215" /><nd ref="-216" /><nd ref="-217" /><nd ref="-218" /><nd ref="-205" /><tag k="building" v="yes" /></way>
+<way id="-219" visible="true"><nd ref="-220" /><nd ref="-221" /><nd ref="-222" /><nd ref="-223" /><nd ref="-224" /><nd ref="-225" /><nd ref="-226" /><nd ref="-227" /><nd ref="-228" /><nd ref="-229" /><nd ref="-230" /><nd ref="-231" /><nd ref="-220" /><tag k="building" v="commercial" /></way>
+<way id="-232" visible="true"><nd ref="-233" /><nd ref="-234" /><nd ref="-235" /><nd ref="-236" /><nd ref="-237" /><nd ref="-238" /><nd ref="-239" /><nd ref="-240" /><nd ref="-241" /><nd ref="-242" /><nd ref="-233" /><tag k="building" v="yes" /></way>
+<way id="-243" visible="true"><nd ref="-244" /><nd ref="-245" /><nd ref="-246" /><nd ref="-247" /><nd ref="-248" /><nd ref="-249" /><nd ref="-250" /><nd ref="-251" /><nd ref="-252" /><nd ref="-253" /><nd ref="-244" /><tag k="building" v="yes" /></way>
+<way id="-254" visible="true"><nd ref="-255" /><nd ref="-256" /><nd ref="-257" /><nd ref="-258" /><nd ref="-259" /><nd ref="-260" /><nd ref="-261" /><nd ref="-262" /><nd ref="-263" /><nd ref="-264" /><nd ref="-255" /><tag k="building" v="yes" /></way>
+<way id="-265" visible="true"><nd ref="-266" /><nd ref="-267" /><nd ref="-268" /><nd ref="-269" /><nd ref="-270" /><nd ref="-271" /><nd ref="-272" /><nd ref="-273" /><nd ref="-266" /><tag k="building" v="yes" /></way>
+<way id="-274" visible="true"><nd ref="-275" /><nd ref="-276" /><nd ref="-277" /><nd ref="-278" /><nd ref="-279" /><nd ref="-280" /><nd ref="-281" /><nd ref="-282" /><nd ref="-275" /><tag k="building" v="yes" /></way>
+<way id="-283" visible="true"><nd ref="-284" /><nd ref="-285" /><nd ref="-286" /><nd ref="-287" /><nd ref="-288" /><nd ref="-289" /><nd ref="-290" /><nd ref="-291" /><nd ref="-292" /><nd ref="-293" /><nd ref="-284" /><tag k="building" v="yes" /></way>
+<way id="-294" visible="true"><nd ref="-295" /><nd ref="-296" /><nd ref="-297" /><nd ref="-298" /><nd ref="-299" /><nd ref="-300" /><nd ref="-295" /><tag k="building" v="yes" /></way>
+<way id="-301" visible="true"><nd ref="-302" /><nd ref="-303" /><nd ref="-304" /><nd ref="-305" /><nd ref="-306" /><nd ref="-307" /><nd ref="-308" /><nd ref="-309" /><nd ref="-310" /><nd ref="-311" /><nd ref="-312" /><nd ref="-313" /><nd ref="-314" /><nd ref="-315" /><nd ref="-302" /><tag k="building" v="yes" /></way>
+<way id="-316" visible="true"><nd ref="-317" /><nd ref="-318" /><nd ref="-319" /><nd ref="-320" /><nd ref="-321" /><nd ref="-322" /><nd ref="-323" /><nd ref="-324" /><nd ref="-325" /><nd ref="-326" /><nd ref="-327" /><nd ref="-328" /><nd ref="-329" /><nd ref="-330" /><nd ref="-331" /><nd ref="-332" /><nd ref="-317" /><tag k="building" v="yes" /></way>
+<way id="-333" visible="true"><nd ref="-334" /><nd ref="-335" /><nd ref="-336" /><nd ref="-337" /><nd ref="-338" /><nd ref="-339" /><nd ref="-340" /><nd ref="-341" /><nd ref="-342" /><nd ref="-343" /><nd ref="-344" /><nd ref="-345" /><nd ref="-346" /><nd ref="-347" /><nd ref="-348" /><nd ref="-349" /><nd ref="-350" /><nd ref="-351" /><nd ref="-352" /><nd ref="-353" /><nd ref="-354" /><nd ref="-355" /><nd ref="-334" /><tag k="building" v="yes" /></way>
+<way id="-356" visible="true"><nd ref="-357" /><nd ref="-358" /><nd ref="-359" /><nd ref="-360" /><nd ref="-361" /><nd ref="-362" /><nd ref="-363" /><nd ref="-364" /><nd ref="-357" /><tag k="building" v="yes" /></way>
+<way id="-365" visible="true"><nd ref="-366" /><nd ref="-367" /><nd ref="-368" /><nd ref="-369" /><nd ref="-370" /><nd ref="-371" /><nd ref="-372" /><nd ref="-373" /><nd ref="-374" /><nd ref="-375" /><nd ref="-376" /><nd ref="-377" /><nd ref="-378" /><nd ref="-379" /><nd ref="-380" /><nd ref="-381" /><nd ref="-366" /><tag k="building" v="yes" /></way>
+<way id="-382" visible="true"><nd ref="-383" /><nd ref="-384" /><nd ref="-385" /><nd ref="-386" /><nd ref="-387" /><nd ref="-388" /><nd ref="-389" /><nd ref="-390" /><nd ref="-391" /><nd ref="-392" /><nd ref="-393" /><nd ref="-394" /><nd ref="-395" /><nd ref="-396" /><nd ref="-397" /><nd ref="-383" /><tag k="building" v="yes" /></way>
+<way id="-398" visible="true"><nd ref="-399" /><nd ref="-400" /><nd ref="-401" /><nd ref="-402" /><nd ref="-403" /><nd ref="-399" /><tag k="building" v="yes" /></way>
+<way id="-404" visible="true"><nd ref="-405" /><nd ref="-406" /><nd ref="-407" /><nd ref="-408" /><nd ref="-405" /><tag k="building" v="commercial" /></way>
+<way id="-409" visible="true"><nd ref="-410" /><nd ref="-411" /><nd ref="-412" /><nd ref="-413" /><nd ref="-410" /><tag k="building" v="commercial" /></way>
+<way id="-414" visible="true"><nd ref="-415" /><nd ref="-416" /><nd ref="-417" /><nd ref="-418" /><nd ref="-415" /><tag k="building" v="commercial" /></way>
+<way id="-419" visible="true"><nd ref="-420" /><nd ref="-421" /><nd ref="-422" /><nd ref="-423" /><nd ref="-424" /><nd ref="-425" /><nd ref="-426" /><nd ref="-427" /><nd ref="-428" /><nd ref="-429" /><nd ref="-420" /><tag k="building" v="commercial" /></way>
+<way id="-430" visible="true"><nd ref="-431" /><nd ref="-432" /><nd ref="-433" /><nd ref="-434" /><nd ref="-431" /><tag k="building" v="commercial" /></way>
+<way id="-435" visible="true"><nd ref="-436" /><nd ref="-437" /><nd ref="-438" /><nd ref="-439" /><nd ref="-436" /><tag k="building" v="semidetached_house" /></way>
+<way id="-440" visible="true"><nd ref="-441" /><nd ref="-442" /><nd ref="-443" /><nd ref="-444" /><nd ref="-445" /><nd ref="-446" /><nd ref="-447" /><nd ref="-448" /><nd ref="-441" /><tag k="building" v="semidetached_house" /></way>
+<way id="-449" visible="true"><nd ref="-450" /><nd ref="-451" /><nd ref="-452" /><nd ref="-453" /><nd ref="-450" /><tag k="building" v="semidetached_house" /></way>
+<way id="-454" visible="true"><nd ref="-455" /><nd ref="-456" /><nd ref="-457" /><nd ref="-458" /><nd ref="-455" /><tag k="building" v="semidetached_house" /></way>
+<way id="-459" visible="true"><nd ref="-460" /><nd ref="-461" /><nd ref="-462" /><nd ref="-463" /><nd ref="-460" /><tag k="building" v="semidetached_house" /></way>
+<way id="-464" visible="true"><nd ref="-465" /><nd ref="-466" /><nd ref="-467" /><nd ref="-468" /><nd ref="-465" /><tag k="building" v="semidetached_house" /></way>
+<way id="-469" visible="true"><nd ref="-470" /><nd ref="-471" /><nd ref="-472" /><nd ref="-473" /><nd ref="-470" /><tag k="building" v="semidetached_house" /></way>
+<way id="-474" visible="true"><nd ref="-475" /><nd ref="-476" /><nd ref="-477" /><nd ref="-478" /><nd ref="-475" /><tag k="building" v="semidetached_house" /></way>
+<way id="-479" visible="true"><nd ref="-480" /><nd ref="-481" /><nd ref="-482" /><nd ref="-483" /><nd ref="-480" /><tag k="building" v="semidetached_house" /></way>
+<way id="-484" visible="true"><nd ref="-485" /><nd ref="-486" /><nd ref="-487" /><nd ref="-488" /><nd ref="-485" /><tag k="building" v="semidetached_house" /></way>
+<way id="-489" visible="true"><nd ref="-490" /><nd ref="-491" /><nd ref="-492" /><nd ref="-493" /><nd ref="-490" /><tag k="building" v="semidetached_house" /></way>
+<way id="-494" visible="true"><nd ref="-495" /><nd ref="-496" /><nd ref="-497" /><nd ref="-498" /><nd ref="-495" /><tag k="building" v="semidetached_house" /></way>
+<way id="-499" visible="true"><nd ref="-500" /><nd ref="-501" /><nd ref="-502" /><nd ref="-503" /><nd ref="-500" /><tag k="building" v="semidetached_house" /></way>
+<way id="-504" visible="true"><nd ref="-505" /><nd ref="-506" /><nd ref="-507" /><nd ref="-508" /><nd ref="-505" /><tag k="building" v="semidetached_house" /></way>
+<way id="-509" visible="true"><nd ref="-510" /><nd ref="-511" /><nd ref="-512" /><nd ref="-513" /><nd ref="-514" /><nd ref="-515" /><nd ref="-510" /><tag k="building" v="semidetached_house" /></way>
+<way id="-516" visible="true"><nd ref="-517" /><nd ref="-518" /><nd ref="-519" /><nd ref="-520" /><nd ref="-517" /><tag k="building" v="semidetached_house" /></way>
+<way id="-521" visible="true"><nd ref="-522" /><nd ref="-523" /><nd ref="-524" /><nd ref="-525" /><nd ref="-522" /><tag k="building" v="semidetached_house" /></way>
+<way id="-526" visible="true"><nd ref="-527" /><nd ref="-528" /><nd ref="-529" /><nd ref="-530" /><nd ref="-527" /><tag k="building" v="semidetached_house" /></way>
+<way id="-531" visible="true"><nd ref="-532" /><nd ref="-533" /><nd ref="-534" /><nd ref="-535" /><nd ref="-532" /><tag k="building" v="semidetached_house" /></way>
+<way id="-536" visible="true"><nd ref="-537" /><nd ref="-538" /><nd ref="-539" /><nd ref="-540" /><nd ref="-537" /><tag k="building" v="semidetached_house" /></way>
+<way id="-541" visible="true"><nd ref="-542" /><nd ref="-543" /><nd ref="-544" /><nd ref="-545" /><nd ref="-542" /><tag k="building" v="semidetached_house" /><tag k="name" v="&lt;Null&gt;" /></way>
+<way id="-546" visible="true"><nd ref="-547" /><nd ref="-548" /><nd ref="-549" /><nd ref="-550" /><nd ref="-547" /><tag k="building" v="semidetached_house" /></way>
+<way id="-551" visible="true"><nd ref="-552" /><nd ref="-553" /><nd ref="-554" /><nd ref="-555" /><nd ref="-556" /><nd ref="-557" /><nd ref="-558" /><nd ref="-559" /><nd ref="-560" /><nd ref="-561" /><nd ref="-562" /><nd ref="-563" /><nd ref="-564" /><nd ref="-565" /><nd ref="-566" /><nd ref="-567" /><nd ref="-568" /><nd ref="-569" /><nd ref="-570" /><nd ref="-571" /><nd ref="-552" /><tag k="addr:housenumber" v="19380" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="132nd Place Northeast" /></way>
+<way id="-572" visible="true"><nd ref="-573" /><nd ref="-574" /><nd ref="-575" /><nd ref="-576" /><nd ref="-577" /><nd ref="-578" /><nd ref="-579" /><nd ref="-580" /><nd ref="-581" /><nd ref="-582" /><nd ref="-583" /><nd ref="-584" /><nd ref="-573" /><tag k="addr:housenumber" v="19416" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="132nd Place Northeast" /></way>
+<way id="-585" visible="true"><nd ref="-586" /><nd ref="-587" /><nd ref="-588" /><nd ref="-589" /><nd ref="-590" /><nd ref="-591" /><nd ref="-592" /><nd ref="-593" /><nd ref="-586" /><tag k="addr:housenumber" v="19420" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="132nd Place Northeast" /></way>
+<way id="-594" visible="true"><nd ref="-595" /><nd ref="-596" /><nd ref="-597" /><nd ref="-598" /><nd ref="-599" /><nd ref="-600" /><nd ref="-601" /><nd ref="-602" /><nd ref="-603" /><nd ref="-604" /><nd ref="-595" /><tag k="addr:housenumber" v="12701" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="Northeast 178th Street" /></way>
+<way id="-605" visible="true"><nd ref="-606" /><nd ref="-607" /><nd ref="-608" /><nd ref="-609" /><nd ref="-606" /><tag k="addr:housenumber" v="12707" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="Northeast 178th Street" /></way>
+<way id="-610" visible="true"><nd ref="-611" /><nd ref="-612" /><nd ref="-613" /><nd ref="-614" /><nd ref="-615" /><nd ref="-616" /><nd ref="-617" /><nd ref="-618" /><nd ref="-619" /><nd ref="-620" /><nd ref="-611" /><tag k="addr:housenumber" v="12315" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="Northeast Woodinville Drive" /></way>
+<way id="-621" visible="true"><nd ref="-622" /><nd ref="-623" /><nd ref="-624" /><nd ref="-625" /><nd ref="-622" /><tag k="addr:housenumber" v="12900" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="Northeast Woodinville-Duvall Road" /></way>
+<way id="-626" visible="true"><nd ref="-627" /><nd ref="-628" /><nd ref="-629" /><nd ref="-630" /><nd ref="-631" /><nd ref="-632" /><nd ref="-633" /><nd ref="-634" /><nd ref="-635" /><nd ref="-636" /><nd ref="-637" /><nd ref="-638" /><nd ref="-639" /><nd ref="-640" /><nd ref="-641" /><nd ref="-642" /><nd ref="-627" /><tag k="addr:housenumber" v="16915" /><tag k="addr:postcode" v="98072" /><tag k="building" v="yes" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="140th Avenue Northeast" /></way>
+<way id="-643" visible="true"><nd ref="-644" /><nd ref="-645" /><nd ref="-646" /><nd ref="-647" /><nd ref="-648" /><nd ref="-649" /><nd ref="-650" /><nd ref="-651" /><nd ref="-652" /><nd ref="-653" /><nd ref="-654" /><nd ref="-655" /><nd ref="-656" /><nd ref="-657" /><nd ref="-644" /><tag k="addr:housenumber" v="2390" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="229th Place Southwest" /></way>
+<way id="-658" visible="true"><nd ref="-659" /><nd ref="-660" /><nd ref="-661" /><nd ref="-662" /><nd ref="-663" /><nd ref="-664" /><nd ref="-659" /><tag k="addr:housenumber" v="22819" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="35th Avenue West" /></way>
+<way id="-665" visible="true"><nd ref="-666" /><nd ref="-667" /><nd ref="-668" /><nd ref="-669" /><nd ref="-670" /><nd ref="-671" /><nd ref="-666" /><tag k="addr:housenumber" v="23004" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="32nd Avenue West" /></way>
+<way id="-672" visible="true"><nd ref="-673" /><nd ref="-674" /><nd ref="-675" /><nd ref="-676" /><nd ref="-677" /><nd ref="-678" /><nd ref="-679" /><nd ref="-680" /><nd ref="-673" /><tag k="addr:housenumber" v="3415" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="230th Street Southwest" /></way>
+<way id="-681" visible="true"><nd ref="-682" /><nd ref="-683" /><nd ref="-684" /><nd ref="-685" /><nd ref="-686" /><nd ref="-687" /><nd ref="-688" /><nd ref="-689" /><nd ref="-682" /><tag k="addr:housenumber" v="3108" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="Russet Road" /></way>
+<way id="-690" visible="true"><nd ref="-691" /><nd ref="-692" /><nd ref="-693" /><nd ref="-694" /><nd ref="-695" /><nd ref="-696" /><nd ref="-697" /><nd ref="-698" /><nd ref="-691" /><tag k="addr:housenumber" v="22317" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Place West" /></way>
+<way id="-699" visible="true"><nd ref="-700" /><nd ref="-701" /><nd ref="-702" /><nd ref="-703" /><nd ref="-700" /><tag k="addr:housenumber" v="3443" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="227th Street Southwest" /></way>
+<way id="-704" visible="true"><nd ref="-705" /><nd ref="-706" /><nd ref="-707" /><nd ref="-708" /><nd ref="-705" /><tag k="addr:housenumber" v="3437" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="227th Street Southwest" /></way>
+<way id="-709" visible="true"><nd ref="-710" /><nd ref="-711" /><nd ref="-712" /><nd ref="-713" /><nd ref="-714" /><nd ref="-715" /><nd ref="-716" /><nd ref="-717" /><nd ref="-710" /><tag k="addr:housenumber" v="3421" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="230th Street Southwest" /></way>
+<way id="-718" visible="true"><nd ref="-719" /><nd ref="-720" /><nd ref="-721" /><nd ref="-722" /><nd ref="-723" /><nd ref="-724" /><nd ref="-725" /><nd ref="-726" /><nd ref="-727" /><nd ref="-728" /><nd ref="-729" /><nd ref="-730" /><nd ref="-731" /><nd ref="-732" /><nd ref="-733" /><nd ref="-734" /><nd ref="-735" /><nd ref="-736" /><nd ref="-719" /><tag k="addr:housenumber" v="23164" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="23rd Avenue West" /></way>
+<way id="-737" visible="true"><nd ref="-738" /><nd ref="-739" /><nd ref="-740" /><nd ref="-741" /><nd ref="-742" /><nd ref="-743" /><nd ref="-744" /><nd ref="-745" /><nd ref="-746" /><nd ref="-747" /><nd ref="-748" /><nd ref="-749" /><nd ref="-750" /><nd ref="-751" /><nd ref="-752" /><nd ref="-753" /><nd ref="-738" /><tag k="addr:housenumber" v="23165" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="23rd Avenue West" /></way>
+<way id="-754" visible="true"><nd ref="-755" /><nd ref="-756" /><nd ref="-757" /><nd ref="-758" /><nd ref="-759" /><nd ref="-760" /><nd ref="-761" /><nd ref="-762" /><nd ref="-763" /><nd ref="-764" /><nd ref="-765" /><nd ref="-766" /><nd ref="-767" /><nd ref="-768" /><nd ref="-769" /><nd ref="-770" /><nd ref="-771" /><nd ref="-772" /><nd ref="-773" /><nd ref="-774" /><nd ref="-775" /><nd ref="-755" /><tag k="addr:housenumber" v="3432" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="232nd Street Southwest" /></way>
+<way id="-776" visible="true"><nd ref="-777" /><nd ref="-778" /><nd ref="-779" /><nd ref="-780" /><nd ref="-781" /><nd ref="-782" /><nd ref="-783" /><nd ref="-784" /><nd ref="-777" /><tag k="addr:housenumber" v="22918" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Avenue West" /></way>
+<way id="-785" visible="true"><nd ref="-786" /><nd ref="-787" /><nd ref="-788" /><nd ref="-789" /><nd ref="-790" /><nd ref="-791" /><nd ref="-786" /><tag k="addr:housenumber" v="23030" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Avenue West" /></way>
+<way id="-792" visible="true"><nd ref="-793" /><nd ref="-794" /><nd ref="-795" /><nd ref="-796" /><nd ref="-797" /><nd ref="-798" /><nd ref="-799" /><nd ref="-800" /><nd ref="-793" /><tag k="addr:housenumber" v="22808" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Avenue West" /></way>
+<way id="-801" visible="true"><nd ref="-802" /><nd ref="-803" /><nd ref="-804" /><nd ref="-805" /><nd ref="-806" /><nd ref="-807" /><nd ref="-808" /><nd ref="-809" /><nd ref="-802" /><tag k="addr:housenumber" v="22816" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Avenue West" /></way>
+<way id="-810" visible="true"><nd ref="-811" /><nd ref="-812" /><nd ref="-813" /><nd ref="-814" /><nd ref="-815" /><nd ref="-816" /><nd ref="-811" /><tag k="addr:housenumber" v="3201" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="228th Street Southwest" /></way>
+<way id="-817" visible="true"><nd ref="-818" /><nd ref="-819" /><nd ref="-820" /><nd ref="-821" /><nd ref="-822" /><nd ref="-823" /><nd ref="-824" /><nd ref="-825" /><nd ref="-826" /><nd ref="-827" /><nd ref="-818" /><tag k="addr:housenumber" v="3120" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="228th Street Southwest" /></way>
+<way id="-828" visible="true"><nd ref="-829" /><nd ref="-830" /><nd ref="-831" /><nd ref="-832" /><nd ref="-833" /><nd ref="-834" /><nd ref="-829" /><tag k="addr:housenumber" v="22818" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="34th Avenue West" /></way>
+<way id="-835" visible="true"><nd ref="-836" /><nd ref="-837" /><nd ref="-838" /><nd ref="-839" /><nd ref="-840" /><nd ref="-841" /><nd ref="-842" /><nd ref="-843" /><nd ref="-836" /><tag k="addr:housenumber" v="2330" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="216th Place Southwest" /></way>
+<way id="-844" visible="true"><nd ref="-845" /><nd ref="-846" /><nd ref="-847" /><nd ref="-848" /><nd ref="-849" /><nd ref="-850" /><nd ref="-845" /><tag k="addr:housenumber" v="22601" /><tag k="addr:postcode" v="98036" /><tag k="building" v="yes" /><tag k="addr:city" v="Brier" /><tag k="addr:street" v="22nd Place West" /></way>
+<way id="-851" visible="true"><nd ref="-852" /><nd ref="-853" /><nd ref="-854" /><nd ref="-855" /><nd ref="-856" /><nd ref="-857" /><nd ref="-852" /><tag k="addr:housenumber" v="3308" /><tag k="addr:postcode" v="98037" /><tag k="building" v="yes" /><tag k="addr:city" v="Lynnwood" /><tag k="addr:street" v="177th Place Southwest" /></way>
+<way id="-858" visible="true"><nd ref="-859" /><nd ref="-860" /><nd ref="-861" /><nd ref="-862" /><nd ref="-863" /><nd ref="-864" /><nd ref="-865" /><nd ref="-866" /><nd ref="-859" /><tag k="addr:housenumber" v="3418" /><tag k="addr:postcode" v="98037" /><tag k="building" v="yes" /><tag k="addr:city" v="Lynnwood" /><tag k="addr:street" v="177th Place Southwest" /></way>
+<way id="-867" visible="true"><nd ref="-738" /><nd ref="-739" /><nd ref="-740" /><nd ref="-741" /><nd ref="-742" /><nd ref="-743" /><nd ref="-744" /><nd ref="-745" /><nd ref="-746" /><nd ref="-747" /><nd ref="-748" /><nd ref="-749" /><nd ref="-750" /><nd ref="-751" /><nd ref="-752" /><nd ref="-753" /><nd ref="-738" /><tag k="addr:housenumber" v="19214" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></way>
+<way id="-868" visible="true"><nd ref="-845" /><nd ref="-846" /><nd ref="-847" /><nd ref="-848" /><nd ref="-849" /><nd ref="-850" /><nd ref="-845" /><tag k="addr:housenumber" v="19227" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Drive Southeast" /></way>
+<way id="-869" visible="true"><nd ref="-691" /><nd ref="-692" /><nd ref="-693" /><nd ref="-694" /><nd ref="-695" /><nd ref="-696" /><nd ref="-697" /><nd ref="-698" /><nd ref="-691" /><tag k="addr:housenumber" v="19233" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-870" visible="true"><nd ref="-871" /><nd ref="-872" /><nd ref="-873" /><nd ref="-874" /><nd ref="-875" /><nd ref="-876" /><nd ref="-877" /><nd ref="-878" /><nd ref="-879" /><nd ref="-880" /><nd ref="-881" /><nd ref="-882" /><nd ref="-883" /><nd ref="-884" /><nd ref="-871" /><tag k="addr:housenumber" v="14" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Street Southwest" /></way>
+<way id="-885" visible="true"><nd ref="-886" /><nd ref="-887" /><nd ref="-888" /><nd ref="-889" /><nd ref="-890" /><nd ref="-891" /><nd ref="-892" /><nd ref="-893" /><nd ref="-894" /><nd ref="-895" /><nd ref="-896" /><nd ref="-897" /><nd ref="-898" /><nd ref="-899" /><nd ref="-900" /><nd ref="-901" /><nd ref="-902" /><nd ref="-903" /><nd ref="-904" /><nd ref="-905" /><nd ref="-906" /><nd ref="-907" /><nd ref="-886" /><tag k="addr:housenumber" v="18" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Street Southwest" /></way>
+<way id="-908" visible="true"><nd ref="-682" /><nd ref="-683" /><nd ref="-684" /><nd ref="-685" /><nd ref="-686" /><nd ref="-687" /><nd ref="-688" /><nd ref="-689" /><nd ref="-682" /><tag k="addr:housenumber" v="19229" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-909" visible="true"><nd ref="-910" /><nd ref="-911" /><nd ref="-912" /><nd ref="-913" /><nd ref="-914" /><nd ref="-915" /><nd ref="-916" /><nd ref="-917" /><nd ref="-918" /><nd ref="-919" /><nd ref="-910" /><tag k="addr:housenumber" v="19227" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-920" visible="true"><nd ref="-710" /><nd ref="-711" /><nd ref="-712" /><nd ref="-713" /><nd ref="-714" /><nd ref="-715" /><nd ref="-716" /><nd ref="-717" /><nd ref="-710" /><tag k="addr:housenumber" v="118" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></way>
+<way id="-921" visible="true"><nd ref="-705" /><nd ref="-706" /><nd ref="-707" /><nd ref="-708" /><nd ref="-705" /><tag k="addr:housenumber" v="106" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></way>
+<way id="-922" visible="true"><nd ref="-700" /><nd ref="-701" /><nd ref="-702" /><nd ref="-703" /><nd ref="-700" /><tag k="addr:housenumber" v="122" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></way>
+<way id="-923" visible="true"><nd ref="-673" /><nd ref="-674" /><nd ref="-675" /><nd ref="-676" /><nd ref="-677" /><nd ref="-678" /><nd ref="-679" /><nd ref="-680" /><nd ref="-673" /><tag k="addr:housenumber" v="19226" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-924" visible="true"><nd ref="-586" /><nd ref="-587" /><nd ref="-588" /><nd ref="-589" /><nd ref="-590" /><nd ref="-591" /><nd ref="-592" /><nd ref="-593" /><nd ref="-586" /><tag k="addr:housenumber" v="19213" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-925" visible="true"><nd ref="-573" /><nd ref="-574" /><nd ref="-575" /><nd ref="-576" /><nd ref="-577" /><nd ref="-578" /><nd ref="-579" /><nd ref="-580" /><nd ref="-581" /><nd ref="-582" /><nd ref="-583" /><nd ref="-584" /><nd ref="-573" /><tag k="addr:housenumber" v="19219" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-926" visible="true"><nd ref="-659" /><nd ref="-660" /><nd ref="-661" /><nd ref="-662" /><nd ref="-663" /><nd ref="-664" /><nd ref="-659" /><tag k="addr:housenumber" v="19222" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-927" visible="true"><nd ref="-719" /><nd ref="-720" /><nd ref="-721" /><nd ref="-722" /><nd ref="-723" /><nd ref="-724" /><nd ref="-725" /><nd ref="-726" /><nd ref="-727" /><nd ref="-728" /><nd ref="-729" /><nd ref="-730" /><nd ref="-731" /><nd ref="-732" /><nd ref="-733" /><nd ref="-734" /><nd ref="-735" /><nd ref="-736" /><nd ref="-719" /><tag k="addr:housenumber" v="19210" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></way>
+<way id="-928" visible="true"><nd ref="-666" /><nd ref="-667" /><nd ref="-668" /><nd ref="-669" /><nd ref="-670" /><nd ref="-671" /><nd ref="-666" /><tag k="addr:housenumber" v="19218" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-929" visible="true"><nd ref="-552" /><nd ref="-553" /><nd ref="-554" /><nd ref="-555" /><nd ref="-556" /><nd ref="-557" /><nd ref="-558" /><nd ref="-559" /><nd ref="-560" /><nd ref="-561" /><nd ref="-562" /><nd ref="-563" /><nd ref="-564" /><nd ref="-565" /><nd ref="-566" /><nd ref="-567" /><nd ref="-568" /><nd ref="-569" /><nd ref="-570" /><nd ref="-571" /><nd ref="-552" /><tag k="addr:housenumber" v="19223" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-930" visible="true"><nd ref="-627" /><nd ref="-628" /><nd ref="-629" /><nd ref="-630" /><nd ref="-631" /><nd ref="-632" /><nd ref="-633" /><nd ref="-634" /><nd ref="-635" /><nd ref="-636" /><nd ref="-637" /><nd ref="-638" /><nd ref="-639" /><nd ref="-640" /><nd ref="-641" /><nd ref="-642" /><nd ref="-627" /><tag k="addr:housenumber" v="19212" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-931" visible="true"><nd ref="-606" /><nd ref="-607" /><nd ref="-608" /><nd ref="-609" /><nd ref="-606" /><tag k="addr:housenumber" v="10" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></way>
+<way id="-932" visible="true"><nd ref="-802" /><nd ref="-803" /><nd ref="-804" /><nd ref="-805" /><nd ref="-806" /><nd ref="-807" /><nd ref="-808" /><nd ref="-809" /><nd ref="-802" /><tag k="addr:housenumber" v="19132" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-933" visible="true"><nd ref="-622" /><nd ref="-623" /><nd ref="-624" /><nd ref="-625" /><nd ref="-622" /><tag k="addr:housenumber" v="19122" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-934" visible="true"><nd ref="-786" /><nd ref="-787" /><nd ref="-788" /><nd ref="-789" /><nd ref="-790" /><nd ref="-791" /><nd ref="-786" /><tag k="addr:housenumber" v="26" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></way>
+<way id="-935" visible="true"><nd ref="-811" /><nd ref="-812" /><nd ref="-813" /><nd ref="-814" /><nd ref="-815" /><nd ref="-816" /><nd ref="-811" /><tag k="addr:housenumber" v="19208" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-936" visible="true"><nd ref="-793" /><nd ref="-794" /><nd ref="-795" /><nd ref="-796" /><nd ref="-797" /><nd ref="-798" /><nd ref="-799" /><nd ref="-800" /><nd ref="-793" /><tag k="addr:housenumber" v="19114" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-937" visible="true"><nd ref="-852" /><nd ref="-853" /><nd ref="-854" /><nd ref="-855" /><nd ref="-856" /><nd ref="-857" /><nd ref="-852" /><tag k="addr:housenumber" v="19220" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-938" visible="true"><nd ref="-818" /><nd ref="-819" /><nd ref="-820" /><nd ref="-821" /><nd ref="-822" /><nd ref="-823" /><nd ref="-824" /><nd ref="-825" /><nd ref="-826" /><nd ref="-827" /><nd ref="-818" /><tag k="addr:housenumber" v="19123" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-939" visible="true"><nd ref="-777" /><nd ref="-778" /><nd ref="-779" /><nd ref="-780" /><nd ref="-781" /><nd ref="-782" /><nd ref="-783" /><nd ref="-784" /><nd ref="-777" /><tag k="addr:housenumber" v="20" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></way>
+<way id="-940" visible="true"><nd ref="-829" /><nd ref="-830" /><nd ref="-831" /><nd ref="-832" /><nd ref="-833" /><nd ref="-834" /><nd ref="-829" /><tag k="addr:housenumber" v="19115" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-941" visible="true"><nd ref="-595" /><nd ref="-596" /><nd ref="-597" /><nd ref="-598" /><nd ref="-599" /><nd ref="-600" /><nd ref="-601" /><nd ref="-602" /><nd ref="-603" /><nd ref="-604" /><nd ref="-595" /><tag k="addr:housenumber" v="19209" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-942" visible="true"><nd ref="-644" /><nd ref="-645" /><nd ref="-646" /><nd ref="-647" /><nd ref="-648" /><nd ref="-649" /><nd ref="-650" /><nd ref="-651" /><nd ref="-652" /><nd ref="-653" /><nd ref="-654" /><nd ref="-655" /><nd ref="-656" /><nd ref="-657" /><nd ref="-644" /><tag k="addr:housenumber" v="19203" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-943" visible="true"><nd ref="-611" /><nd ref="-612" /><nd ref="-613" /><nd ref="-614" /><nd ref="-615" /><nd ref="-616" /><nd ref="-617" /><nd ref="-618" /><nd ref="-619" /><nd ref="-620" /><nd ref="-611" /><tag k="addr:housenumber" v="24" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></way>
+<way id="-944" visible="true"><nd ref="-859" /><nd ref="-860" /><nd ref="-861" /><nd ref="-862" /><nd ref="-863" /><nd ref="-864" /><nd ref="-865" /><nd ref="-866" /><nd ref="-859" /><tag k="addr:housenumber" v="19230" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></way>
+<way id="-945" visible="true"><nd ref="-946" /><nd ref="-947" /><nd ref="-948" /><nd ref="-949" /><nd ref="-950" /><nd ref="-951" /><nd ref="-946" /><tag k="addr:housenumber" v="26" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="194th Street Southwest" /></way>
+<way id="-952" visible="true"><nd ref="-953" /><nd ref="-954" /><nd ref="-955" /><nd ref="-956" /><nd ref="-957" /><nd ref="-958" /><nd ref="-959" /><nd ref="-960" /><nd ref="-961" /><nd ref="-962" /><nd ref="-963" /><nd ref="-964" /><nd ref="-953" /><tag k="addr:housenumber" v="19316" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-965" visible="true"><nd ref="-966" /><nd ref="-967" /><nd ref="-968" /><nd ref="-969" /><nd ref="-970" /><nd ref="-971" /><nd ref="-972" /><nd ref="-973" /><nd ref="-966" /><tag k="addr:housenumber" v="19315" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-974" visible="true"><nd ref="-975" /><nd ref="-976" /><nd ref="-977" /><nd ref="-978" /><nd ref="-979" /><nd ref="-980" /><nd ref="-981" /><nd ref="-982" /><nd ref="-975" /><tag k="addr:housenumber" v="19319" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-983" visible="true"><nd ref="-984" /><nd ref="-985" /><nd ref="-986" /><nd ref="-987" /><nd ref="-988" /><nd ref="-989" /><nd ref="-990" /><nd ref="-991" /><nd ref="-984" /><tag k="addr:housenumber" v="19311" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-992" visible="true"><nd ref="-993" /><nd ref="-994" /><nd ref="-995" /><nd ref="-996" /><nd ref="-997" /><nd ref="-998" /><nd ref="-999" /><nd ref="-1000" /><nd ref="-1001" /><nd ref="-1002" /><nd ref="-993" /><tag k="addr:housenumber" v="19320" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-1003" visible="true"><nd ref="-1004" /><nd ref="-1005" /><nd ref="-1006" /><nd ref="-1007" /><nd ref="-1008" /><nd ref="-1009" /><nd ref="-1010" /><nd ref="-1011" /><nd ref="-1012" /><nd ref="-1013" /><nd ref="-1004" /><tag k="addr:housenumber" v="19312" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-1014" visible="true"><nd ref="-1015" /><nd ref="-1016" /><nd ref="-1017" /><nd ref="-1018" /><nd ref="-1019" /><nd ref="-1020" /><nd ref="-1015" /><tag k="addr:housenumber" v="30" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="194th Street Southwest" /></way>
+<way id="-1021" visible="true"><nd ref="-1022" /><nd ref="-1023" /><nd ref="-1024" /><nd ref="-1025" /><nd ref="-1026" /><nd ref="-1027" /><nd ref="-1028" /><nd ref="-1029" /><nd ref="-1030" /><nd ref="-1031" /><nd ref="-1022" /><tag k="addr:housenumber" v="19324" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></way>
+<way id="-1032" visible="true"><nd ref="-755" /><nd ref="-756" /><nd ref="-757" /><nd ref="-758" /><nd ref="-759" /><nd ref="-760" /><nd ref="-761" /><nd ref="-762" /><nd ref="-763" /><nd ref="-764" /><nd ref="-765" /><nd ref="-766" /><nd ref="-767" /><nd ref="-768" /><nd ref="-769" /><nd ref="-770" /><nd ref="-771" /><nd ref="-772" /><nd ref="-773" /><nd ref="-774" /><nd ref="-775" /><nd ref="-755" /><tag k="addr:housenumber" v="3" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></way>
+<way id="-1033" visible="true"><nd ref="-1034" /><nd ref="-1035" /><nd ref="-1036" /><nd ref="-1037" /><nd ref="-1038" /><nd ref="-1039" /><nd ref="-1040" /><nd ref="-1041" /><nd ref="-1042" /><nd ref="-1043" /><nd ref="-1044" /><nd ref="-1045" /><nd ref="-1034" /><tag k="addr:housenumber" v="212" /><tag k="building" v="commercial" /><tag k="addr:unit" v="100" /><tag k="addr:city" v="Bothell" /><tag k="addr:postcode" v="98012" /><tag k="addr:street" v="West Winesap Road" /></way>
+<way id="-1046" visible="true"><nd ref="-836" /><nd ref="-837" /><nd ref="-838" /><nd ref="-839" /><nd ref="-840" /><nd ref="-841" /><nd ref="-842" /><nd ref="-843" /><nd ref="-836" /><tag k="addr:housenumber" v="114" /><tag k="addr:postcode" v="98012" /><tag k="building" v="yes" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></way>
+<node id="-1000001" lat="47.826334662" lon="-122.237503435" visible="true"><tag k="addr:housenumber" v="304" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000002" lat="47.826592759" lon="-122.229381165" visible="true"><tag k="addr:housenumber" v="205" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000003" lat="47.826447299" lon="-122.234836625" visible="true"><tag k="addr:housenumber" v="18832" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000004" lat="47.825981791" lon="-122.228219569" visible="true"><tag k="addr:housenumber" v="18922" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000005" lat="47.826543356" lon="-122.237596065" visible="true"><tag k="addr:housenumber" v="305" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000006" lat="47.82643422" lon="-122.23530055" visible="true"><tag k="addr:housenumber" v="18819" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000007" lat="47.826294429" lon="-122.235296768" visible="true"><tag k="addr:housenumber" v="18823" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000008" lat="47.825987486" lon="-122.232407356" visible="true"><tag k="addr:housenumber" v="18924" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000009" lat="47.824578577" lon="-122.235261432" visible="true"><tag k="addr:housenumber" v="127" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000010" lat="47.825866006" lon="-122.228158433" visible="true"><tag k="addr:housenumber" v="18926" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000011" lat="47.824851775" lon="-122.234802295" visible="true"><tag k="addr:housenumber" v="109" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000012" lat="47.824830325" lon="-122.230228397" visible="true"><tag k="addr:housenumber" v="123" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000013" lat="47.826640712" lon="-122.22781182" visible="true"><tag k="addr:housenumber" v="233" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000014" lat="47.824894695" lon="-122.230570103" visible="true"><tag k="addr:housenumber" v="119" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000015" lat="47.82657056" lon="-122.235306275" visible="true"><tag k="addr:housenumber" v="18815" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000016" lat="47.826259307" lon="-122.232433018" visible="true"><tag k="addr:housenumber" v="18916" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000017" lat="47.827648887" lon="-122.236932248" visible="true"><tag k="addr:housenumber" v="18723" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000018" lat="47.826633772" lon="-122.23740941" visible="true"><tag k="addr:housenumber" v="233" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000019" lat="47.825850423" lon="-122.232404674" visible="true"><tag k="addr:housenumber" v="18932" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000020" lat="47.826117327" lon="-122.227729536" visible="true"><tag k="addr:housenumber" v="18913" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="4th Avenue Southeast" /></node>
+<node id="-1000021" lat="47.827607688" lon="-122.237440154" visible="true"><tag k="addr:housenumber" v="18722" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000022" lat="47.825749535" lon="-122.228097278" visible="true"><tag k="addr:housenumber" v="18930" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000023" lat="47.827831406" lon="-122.237035309" visible="true"><tag k="addr:housenumber" v="18711" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000024" lat="47.826589295" lon="-122.234828251" visible="true"><tag k="addr:housenumber" v="18828" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000025" lat="47.826607215" lon="-122.236837076" visible="true"><tag k="addr:housenumber" v="223" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000026" lat="47.827946757" lon="-122.235884714" visible="true"><tag k="addr:housenumber" v="18702" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000027" lat="47.82696724" lon="-122.235311126" visible="true"><tag k="addr:housenumber" v="18805" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000028" lat="47.824626399" lon="-122.229863592" visible="true"><tag k="addr:housenumber" v="125" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000029" lat="47.826598986" lon="-122.237035797" visible="true"><tag k="addr:housenumber" v="229" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000030" lat="47.826980615" lon="-122.236709545" visible="true"><tag k="addr:housenumber" v="18902" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000031" lat="47.827749224" lon="-122.236973308" visible="true"><tag k="addr:housenumber" v="18717" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000032" lat="47.823313784" lon="-122.23346091" visible="true"><tag k="addr:housenumber" v="19218" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000033" lat="47.826719799" lon="-122.235595329" visible="true"><tag k="addr:housenumber" v="18810" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000034" lat="47.826105026" lon="-122.228288032" visible="true"><tag k="addr:housenumber" v="18918" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000035" lat="47.826971047" lon="-122.23560292" visible="true"><tag k="addr:housenumber" v="18804" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000036" lat="47.826719593" lon="-122.234823631" visible="true"><tag k="addr:housenumber" v="18824" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000037" lat="47.826921546" lon="-122.234050048" visible="true"><tag k="addr:housenumber" v="24" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000038" lat="47.827977049" lon="-122.236091158" visible="true"><tag k="addr:housenumber" v="18704" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000039" lat="47.827818943" lon="-122.236437612" visible="true"><tag k="addr:housenumber" v="18712" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000040" lat="47.827101176" lon="-122.237497514" visible="true"><tag k="addr:housenumber" v="232" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000041" lat="47.827864195" lon="-122.237205684" visible="true"><tag k="addr:housenumber" v="18705" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000042" lat="47.826849156" lon="-122.234823064" visible="true"><tag k="addr:housenumber" v="18820" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000043" lat="47.827739195" lon="-122.237451748" visible="true"><tag k="addr:housenumber" v="18716" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000044" lat="47.827823269" lon="-122.235812265" visible="true"><tag k="addr:housenumber" v="18703" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000045" lat="47.822944828" lon="-122.232747276" visible="true"><tag k="addr:housenumber" v="19307" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000046" lat="47.827621808" lon="-122.236234796" visible="true"><tag k="addr:housenumber" v="18715" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000047" lat="47.82670761" lon="-122.235309983" visible="true"><tag k="addr:housenumber" v="18811" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000048" lat="47.826844" lon="-122.235311637" visible="true"><tag k="addr:housenumber" v="18809" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000049" lat="47.827479814" lon="-122.236999488" visible="true"><tag k="addr:housenumber" v="18727" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000050" lat="47.825895287" lon="-122.230586904" visible="true"><tag k="addr:housenumber" v="121" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000051" lat="47.826979365" lon="-122.234825568" visible="true"><tag k="addr:housenumber" v="18816" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000052" lat="47.827476125" lon="-122.237361771" visible="true"><tag k="addr:housenumber" v="18726" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000053" lat="47.827121875" lon="-122.237095995" visible="true"><tag k="addr:housenumber" v="228" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000054" lat="47.827948616" lon="-122.2362916" visible="true"><tag k="addr:housenumber" v="18708" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000055" lat="47.827863684" lon="-122.237374422" visible="true"><tag k="addr:housenumber" v="18706" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Avenue West" /></node>
+<node id="-1000056" lat="47.826582735" lon="-122.235592638" visible="true"><tag k="addr:housenumber" v="18814" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000057" lat="47.827669184" lon="-122.235856163" visible="true"><tag k="addr:housenumber" v="18707" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000058" lat="47.826833985" lon="-122.235600229" visible="true"><tag k="addr:housenumber" v="18808" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000059" lat="47.822995435" lon="-122.233092673" visible="true"><tag k="addr:housenumber" v="19310" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000060" lat="47.82682632" lon="-122.232478865" visible="true"><tag k="addr:housenumber" v="18826" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000061" lat="47.826503077" lon="-122.231390136" visible="true"><tag k="addr:housenumber" v="114" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000062" lat="47.827476074" lon="-122.23181338" visible="true"><tag k="addr:housenumber" v="25" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000063" lat="47.827148011" lon="-122.230445601" visible="true"><tag k="addr:housenumber" v="124" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000064" lat="47.827506332" lon="-122.231189188" visible="true"><tag k="addr:housenumber" v="115" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000065" lat="47.828045225" lon="-122.227758003" visible="true"><tag k="addr:housenumber" v="18708" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Drive Southeast" /></node>
+<node id="-1000066" lat="47.828221491" lon="-122.232236604" visible="true"><tag k="addr:housenumber" v="21" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000067" lat="47.824047377" lon="-122.232704104" visible="true"><tag k="addr:housenumber" v="2" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000068" lat="47.823990063" lon="-122.233074075" visible="true"><tag k="addr:housenumber" v="8" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000069" lat="47.823742502" lon="-122.231963016" visible="true"><tag k="addr:housenumber" v="19201" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Drive Southeast" /></node>
+<node id="-1000070" lat="47.823967356" lon="-122.232838675" visible="true"><tag k="addr:housenumber" v="6" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000071" lat="47.823525666" lon="-122.233250172" visible="true"><tag k="addr:housenumber" v="19211" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000072" lat="47.82528434" lon="-122.22785268" visible="true"><tag k="addr:housenumber" v="19016" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000073" lat="47.823376233" lon="-122.232914318" visible="true"><tag k="addr:housenumber" v="19229" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000074" lat="47.825025368" lon="-122.232383416" visible="true"><tag k="addr:housenumber" v="17" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000075" lat="47.825054427" lon="-122.227707042" visible="true"><tag k="addr:housenumber" v="19024" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000076" lat="47.825167895" lon="-122.22778949" visible="true"><tag k="addr:housenumber" v="19020" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000077" lat="47.826295706" lon="-122.237239873" visible="true"><tag k="addr:housenumber" v="230" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000078" lat="47.824123027" lon="-122.233597793" visible="true"><tag k="addr:housenumber" v="19202" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000079" lat="47.824103313" lon="-122.236694617" visible="true"><tag k="addr:housenumber" v="224" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000080" lat="47.825516596" lon="-122.227974969" visible="true"><tag k="addr:housenumber" v="19008" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000081" lat="47.826332897" lon="-122.236897054" visible="true"><tag k="addr:housenumber" v="222" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000082" lat="47.826163159" lon="-122.235324773" visible="true"><tag k="addr:housenumber" v="18827" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000083" lat="47.826247988" lon="-122.227807359" visible="true"><tag k="addr:housenumber" v="18909" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000084" lat="47.82624257" lon="-122.231378273" visible="true"><tag k="addr:housenumber" v="106" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000085" lat="47.82721711" lon="-122.228156035" visible="true"><tag k="addr:housenumber" v="229" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000086" lat="47.826998332" lon="-122.23321463" visible="true"><tag k="addr:housenumber" v="6" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000087" lat="47.825400811" lon="-122.227913833" visible="true"><tag k="addr:housenumber" v="19012" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000088" lat="47.825633065" lon="-122.228036123" visible="true"><tag k="addr:housenumber" v="19004" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="3rd Drive Southeast" /></node>
+<node id="-1000089" lat="47.827047887" lon="-122.233608547" visible="true"><tag k="addr:housenumber" v="18" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000090" lat="47.826909718" lon="-122.228105603" visible="true"><tag k="addr:housenumber" v="227" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000091" lat="47.827240257" lon="-122.227846107" visible="true"><tag k="addr:housenumber" v="231" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000092" lat="47.828593807" lon="-122.237419698" visible="true"><tag k="addr:housenumber" v="18717" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="North Road" /></node>
+<node id="-1000093" lat="47.823738148" lon="-122.236808907" visible="true"><tag k="addr:housenumber" v="19215" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Filbert Road" /></node>
+<node id="-1000094" lat="47.825375695" lon="-122.236983428" visible="true"><tag k="addr:housenumber" v="19029" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="North Road" /></node>
+<node id="-1000095" lat="47.823957123" lon="-122.23632813" visible="true"><tag k="addr:housenumber" v="211" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000096" lat="47.826194593" lon="-122.229320391" visible="true"><tag k="addr:housenumber" v="217" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000097" lat="47.823581716" lon="-122.235975811" visible="true"><tag k="addr:housenumber" v="212" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000098" lat="47.82400786" lon="-122.237545509" visible="true"><tag k="addr:housenumber" v="19211" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Filbert Road" /></node>
+<node id="-1000099" lat="47.826099435" lon="-122.232955635" visible="true"><tag k="addr:housenumber" v="18821" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000100" lat="47.825975303" lon="-122.233060067" visible="true"><tag k="addr:housenumber" v="18927" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000101" lat="47.826351318" lon="-122.236563" visible="true"><tag k="addr:housenumber" v="216" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="189th Place Southwest" /></node>
+<node id="-1000102" lat="47.826385626" lon="-122.233200876" visible="true"><tag k="addr:housenumber" v="18811" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000103" lat="47.826515512" lon="-122.236297588" visible="true"><tag k="addr:housenumber" v="18919" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000104" lat="47.825957113" lon="-122.233879437" visible="true"><tag k="addr:housenumber" v="19000" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000105" lat="47.826847166" lon="-122.234482235" visible="true"><tag k="addr:housenumber" v="18821" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000106" lat="47.827453427" lon="-122.235227917" visible="true"><tag k="addr:housenumber" v="121" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000107" lat="47.826978061" lon="-122.234484756" visible="true"><tag k="addr:housenumber" v="18817" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000108" lat="47.827102297" lon="-122.235309691" visible="true"><tag k="addr:housenumber" v="18801" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000109" lat="47.826798581" lon="-122.236281727" visible="true"><tag k="addr:housenumber" v="18905" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000110" lat="47.827091752" lon="-122.234517689" visible="true"><tag k="addr:housenumber" v="18813" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000111" lat="47.827908545" lon="-122.234343088" visible="true"><tag k="addr:housenumber" v="18719" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000112" lat="47.827529687" lon="-122.234884789" visible="true"><tag k="addr:housenumber" v="18728" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000113" lat="47.827576582" lon="-122.234489178" visible="true"><tag k="addr:housenumber" v="18727" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000114" lat="47.825753245" lon="-122.233846442" visible="true"><tag k="addr:housenumber" v="19002" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000115" lat="47.827640513" lon="-122.23523196" visible="true"><tag k="addr:housenumber" v="123" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000116" lat="47.825547695" lon="-122.233838851" visible="true"><tag k="addr:housenumber" v="19010" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000117" lat="47.824832481" lon="-122.233636304" visible="true"><tag k="addr:housenumber" v="23" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000118" lat="47.826716894" lon="-122.234484819" visible="true"><tag k="addr:housenumber" v="18825" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000119" lat="47.828112937" lon="-122.234525849" visible="true"><tag k="addr:housenumber" v="18711" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000120" lat="47.827737192" lon="-122.234472144" visible="true"><tag k="addr:housenumber" v="18723" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000121" lat="47.825740731" lon="-122.232909642" visible="true"><tag k="addr:housenumber" v="19003" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000122" lat="47.827024764" lon="-122.236283779" visible="true"><tag k="addr:housenumber" v="18903" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000123" lat="47.827106665" lon="-122.23561168" visible="true"><tag k="addr:housenumber" v="18800" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Place West" /></node>
+<node id="-1000124" lat="47.827937657" lon="-122.234875804" visible="true"><tag k="addr:housenumber" v="18720" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000125" lat="47.826676179" lon="-122.236276038" visible="true"><tag k="addr:housenumber" v="18911" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000126" lat="47.826554364" lon="-122.234490604" visible="true"><tag k="addr:housenumber" v="18829" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000127" lat="47.82709531" lon="-122.234829948" visible="true"><tag k="addr:housenumber" v="18812" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000128" lat="47.824819008" lon="-122.234008483" visible="true"><tag k="addr:housenumber" v="27" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000129" lat="47.827689559" lon="-122.2349218" visible="true"><tag k="addr:housenumber" v="18724" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000130" lat="47.828048219" lon="-122.234387469" visible="true"><tag k="addr:housenumber" v="18715" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000131" lat="47.8253008" lon="-122.23289776" visible="true"><tag k="addr:housenumber" v="19019" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000132" lat="47.824939935" lon="-122.233034588" visible="true"><tag k="addr:housenumber" v="3" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000133" lat="47.825522174" lon="-122.232900685" visible="true"><tag k="addr:housenumber" v="19011" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000134" lat="47.825135136" lon="-122.233830755" visible="true"><tag k="addr:housenumber" v="19024" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000135" lat="47.824958251" lon="-122.232714451" visible="true"><tag k="addr:housenumber" v="5" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000136" lat="47.825341397" lon="-122.233836329" visible="true"><tag k="addr:housenumber" v="19018" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000137" lat="47.825021742" lon="-122.231304479" visible="true"><tag k="addr:housenumber" v="102" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000138" lat="47.825445403" lon="-122.230622728" visible="true"><tag k="addr:housenumber" v="108" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000139" lat="47.825606734" lon="-122.229917608" visible="true"><tag k="addr:housenumber" v="116" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000140" lat="47.825237332" lon="-122.230945779" visible="true"><tag k="addr:housenumber" v="104" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000141" lat="47.82550068" lon="-122.230306636" visible="true"><tag k="addr:housenumber" v="112" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000142" lat="47.825700717" lon="-122.22945044" visible="true"><tag k="addr:housenumber" v="124" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000143" lat="47.82302536" lon="-122.231177227" visible="true"><tag k="addr:housenumber" v="19232" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000144" lat="47.824746018" lon="-122.234408231" visible="true"><tag k="addr:housenumber" v="105" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000145" lat="47.823290586" lon="-122.230832884" visible="true"><tag k="addr:housenumber" v="19225" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000146" lat="47.825395771" lon="-122.231479807" visible="true"><tag k="addr:housenumber" v="103" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000147" lat="47.826518752" lon="-122.232082059" visible="true"><tag k="addr:housenumber" v="18905" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000148" lat="47.826014893" lon="-122.231972774" visible="true"><tag k="addr:housenumber" v="18925" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000149" lat="47.825890851" lon="-122.231970444" visible="true"><tag k="addr:housenumber" v="18931" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000150" lat="47.823889147" lon="-122.230877526" visible="true"><tag k="addr:housenumber" v="19205" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000151" lat="47.826262382" lon="-122.232026279" visible="true"><tag k="addr:housenumber" v="18917" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000152" lat="47.823141043" lon="-122.230885398" visible="true"><tag k="addr:housenumber" v="19233" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000153" lat="47.824841561" lon="-122.235125816" visible="true"><tag k="addr:housenumber" v="121" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="West Winesap Road" /></node>
+<node id="-1000154" lat="47.823591724" lon="-122.230871541" visible="true"><tag k="addr:housenumber" v="19215" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000155" lat="47.826138525" lon="-122.232008685" visible="true"><tag k="addr:housenumber" v="18921" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000156" lat="47.825110552" lon="-122.228331609" visible="true"><tag k="addr:housenumber" v="19021" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000157" lat="47.825171544" lon="-122.228969088" visible="true"><tag k="addr:housenumber" v="19020" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000158" lat="47.825447877" lon="-122.228943391" visible="true"><tag k="addr:housenumber" v="19014" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000159" lat="47.825515707" lon="-122.228478234" visible="true"><tag k="addr:housenumber" v="19011" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000160" lat="47.826052528" lon="-122.229692791" visible="true"><tag k="addr:housenumber" v="131" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000161" lat="47.825972536" lon="-122.230068276" visible="true"><tag k="addr:housenumber" v="125" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000162" lat="47.824860105" lon="-122.229692551" visible="true"><tag k="addr:housenumber" v="127" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000163" lat="47.825741857" lon="-122.228975625" visible="true"><tag k="addr:housenumber" v="19002" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000164" lat="47.825402849" lon="-122.229686481" visible="true"><tag k="addr:housenumber" v="120" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000165" lat="47.825702092" lon="-122.230901766" visible="true"><tag k="addr:housenumber" v="117" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000166" lat="47.824797475" lon="-122.229563517" visible="true"><tag k="addr:housenumber" v="129" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000167" lat="47.825575915" lon="-122.231210856" visible="true"><tag k="addr:housenumber" v="113" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000168" lat="47.826016981" lon="-122.228568752" visible="true"><tag k="addr:housenumber" v="220" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000169" lat="47.825060318" lon="-122.228684366" visible="true"><tag k="addr:housenumber" v="19024" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Avenue Southeast" /></node>
+<node id="-1000170" lat="47.826181737" lon="-122.23038788" visible="true"><tag k="addr:housenumber" v="123" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000171" lat="47.824403258" lon="-122.229425776" visible="true"><tag k="addr:housenumber" v="131" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Winesap Road" /></node>
+<node id="-1000172" lat="47.826894636" lon="-122.231774887" visible="true"><tag k="addr:housenumber" v="104" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000173" lat="47.826959737" lon="-122.232115704" visible="true"><tag k="addr:housenumber" v="18821" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000174" lat="47.826409115" lon="-122.232458439" visible="true"><tag k="addr:housenumber" v="18908" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000175" lat="47.823134053" lon="-122.232819225" visible="true"><tag k="addr:housenumber" v="19303" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000176" lat="47.826972441" lon="-122.232469577" visible="true"><tag k="addr:housenumber" v="18822" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000177" lat="47.827075486" lon="-122.232389116" visible="true"><tag k="addr:housenumber" v="18818" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000178" lat="47.823268719" lon="-122.232849665" visible="true"><tag k="addr:housenumber" v="19233" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000179" lat="47.82571402" lon="-122.232404045" visible="true"><tag k="addr:housenumber" v="19004" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000180" lat="47.827113805" lon="-122.231000463" visible="true"><tag k="addr:housenumber" v="118" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000181" lat="47.827539066" lon="-122.230530453" visible="true"><tag k="addr:housenumber" v="133" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000182" lat="47.827506714" lon="-122.230877713" visible="true"><tag k="addr:housenumber" v="119" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000183" lat="47.827643405" lon="-122.233822203" visible="true"><tag k="addr:housenumber" v="23" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000184" lat="47.827736403" lon="-122.227787356" visible="true"><tag k="addr:housenumber" v="18707" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Drive Southeast" /></node>
+<node id="-1000185" lat="47.826355247" lon="-122.228791506" visible="true"><tag k="addr:housenumber" v="219" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000186" lat="47.82314009" lon="-122.234712916" visible="true"><tag k="addr:housenumber" v="109" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Place Southwest" /></node>
+<node id="-1000187" lat="47.827462317" lon="-122.231481165" visible="true"><tag k="addr:housenumber" v="101" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000188" lat="47.823139062" lon="-122.234405498" visible="true"><tag k="addr:housenumber" v="101" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Place Southwest" /></node>
+<node id="-1000189" lat="47.822558867" lon="-122.23422956" visible="true"><tag k="addr:housenumber" v="33" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="194th Street Southwest" /></node>
+<node id="-1000190" lat="47.827607681" lon="-122.236051639" visible="true"><tag k="addr:housenumber" v="18711" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="2nd Place West" /></node>
+<node id="-1000191" lat="47.827515717" lon="-122.233278232" visible="true"><tag k="addr:housenumber" v="9" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000192" lat="47.823137128" lon="-122.234563213" visible="true"><tag k="addr:housenumber" v="105" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Place Southwest" /></node>
+<node id="-1000193" lat="47.827695839" lon="-122.229874042" visible="true"><tag k="addr:housenumber" v="201" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000194" lat="47.823144344" lon="-122.234142359" visible="true"><tag k="addr:housenumber" v="27" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Place Southwest" /></node>
+<node id="-1000195" lat="47.828234295" lon="-122.229283898" visible="true"><tag k="addr:housenumber" v="211" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000196" lat="47.822564473" lon="-122.234101578" visible="true"><tag k="addr:housenumber" v="29" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="194th Street Southwest" /></node>
+<node id="-1000197" lat="47.826828628" lon="-122.228702463" visible="true"><tag k="addr:housenumber" v="223" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000198" lat="47.823140671" lon="-122.23427424" visible="true"><tag k="addr:housenumber" v="31" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="193rd Place Southwest" /></node>
+<node id="-1000199" lat="47.823886349" lon="-122.233669095" visible="true"><tag k="addr:housenumber" v="19206" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Meridian Place West" /></node>
+<node id="-1000200" lat="47.826123825" lon="-122.232413073" visible="true"><tag k="addr:housenumber" v="18920" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000201" lat="47.827096437" lon="-122.231406994" visible="true"><tag k="addr:housenumber" v="116" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="East Jonathan Road" /></node>
+<node id="-1000202" lat="47.825574753" lon="-122.232413517" visible="true"><tag k="addr:housenumber" v="19008" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000203" lat="47.827061447" lon="-122.232776764" visible="true"><tag k="addr:housenumber" v="4" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000204" lat="47.826443905" lon="-122.229679398" visible="true"><tag k="addr:housenumber" v="129" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Poppy Road" /></node>
+<node id="-1000205" lat="47.826497881" lon="-122.233910339" visible="true"><tag k="addr:housenumber" v="22" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000206" lat="47.824329776" lon="-122.232798927" visible="true"><tag k="addr:housenumber" v="7" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000207" lat="47.828104614" lon="-122.234726386" visible="true"><tag k="addr:housenumber" v="18712" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue West" /></node>
+<node id="-1000208" lat="47.826537747" lon="-122.233715072" visible="true"><tag k="addr:housenumber" v="20" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000209" lat="47.82426524" lon="-122.233030953" visible="true"><tag k="addr:housenumber" v="9" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="192nd Street Southwest" /></node>
+<node id="-1000210" lat="47.825424807" lon="-122.23239929" visible="true"><tag k="addr:housenumber" v="19012" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000211" lat="47.826385527" lon="-122.23204589" visible="true"><tag k="addr:housenumber" v="18911" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000212" lat="47.825762908" lon="-122.231950705" visible="true"><tag k="addr:housenumber" v="19003" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+<node id="-1000213" lat="47.827813274" lon="-122.235267512" visible="true"><tag k="addr:housenumber" v="125" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000214" lat="47.827810944" lon="-122.235438802" visible="true"><tag k="addr:housenumber" v="129" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="Jonathan Road" /></node>
+<node id="-1000215" lat="47.827068286" lon="-122.232125429" visible="true"><tag k="addr:housenumber" v="18819" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="1st Avenue Southeast" /></node>
+</osm>

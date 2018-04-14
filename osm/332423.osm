@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="47.729946516" lon="-122.177414381" visible="true"><tag k="addr:housenumber" v="14305"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="123rd Avenue Northeast"/></node>
+</osm>

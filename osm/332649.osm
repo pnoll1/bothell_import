@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="47.728758126" lon="-122.163402514" visible="true"><tag k="addr:housenumber" v="14228"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="132nd Avenue Northeast"/></node>
+<node id="-2" lat="47.728744241" lon="-122.162550912" visible="true"><tag k="addr:housenumber" v="13230"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="Northeast 142nd Place"/></node>
+<node id="-3" lat="47.728730124" lon="-122.161684533" visible="true"><tag k="addr:housenumber" v="14220"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="132nd Avenue Northeast"/></node>
+<node id="-4" lat="47.727998432" lon="-122.163388314" visible="true"><tag k="addr:housenumber" v="14216"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="132nd Avenue Northeast"/></node>
+</osm>

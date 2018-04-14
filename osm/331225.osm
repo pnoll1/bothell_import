@@ -1,0 +1,86 @@
+<osm generator="uvmogr2osm" upload="false" version="0.6">
+<node id="-3" lat="47.771730982" lon="-122.162213547" visible="true" />
+<node id="-4" lat="47.771681994" lon="-122.162250443" visible="true" />
+<node id="-5" lat="47.771700264" lon="-122.162303827" visible="true" />
+<node id="-6" lat="47.771414382" lon="-122.162519265" visible="true" />
+<node id="-7" lat="47.771641966" lon="-122.161882673" visible="true" />
+<node id="-8" lat="47.771839922" lon="-122.161730176" visible="true" />
+<node id="-9" lat="47.771706226" lon="-122.16134626" visible="true" />
+<node id="-10" lat="47.771206858" lon="-122.161724824" visible="true" />
+<node id="-11" lat="47.771410999" lon="-122.161453154" visible="true" />
+<node id="-12" lat="47.771381444" lon="-122.161368084" visible="true" />
+<node id="-13" lat="47.771098078" lon="-122.161445224" visible="true" />
+<node id="-14" lat="47.770941861" lon="-122.160988991" visible="true" />
+<node id="-15" lat="47.770664226" lon="-122.161198178" visible="true" />
+<node id="-16" lat="47.77091243" lon="-122.161923045" visible="true" />
+<node id="-17" lat="47.770927312" lon="-122.161911834" visible="true" />
+<node id="-18" lat="47.77094614" lon="-122.161966817" visible="true" />
+<node id="-19" lat="47.770873003" lon="-122.162021926" visible="true" />
+<node id="-20" lat="47.770975944" lon="-122.162322526" visible="true" />
+<node id="-21" lat="47.770755066" lon="-122.162488951" visible="true" />
+<node id="-22" lat="47.770742391" lon="-122.16245194" visible="true" />
+<node id="-23" lat="47.770879869" lon="-122.162348373" visible="true" />
+<node id="-24" lat="47.770858999" lon="-122.16228744" visible="true" />
+<node id="-25" lat="47.770911529" lon="-122.162247869" visible="true" />
+<node id="-26" lat="47.770823041" lon="-122.161989409" visible="true" />
+<node id="-27" lat="47.770769599" lon="-122.162029648" visible="true" />
+<node id="-28" lat="47.770725528" lon="-122.161900891" visible="true" />
+<node id="-29" lat="47.770549934" lon="-122.162033173" visible="true" />
+<node id="-30" lat="47.770615006" lon="-122.162223272" visible="true" />
+<node id="-31" lat="47.770278228" lon="-122.162477017" visible="true" />
+<node id="-32" lat="47.770453637" lon="-122.162989339" visible="true" />
+<node id="-33" lat="47.770795644" lon="-122.162731663" visible="true" />
+<node id="-34" lat="47.770867186" lon="-122.162940557" visible="true" />
+<node id="-35" lat="47.770861764" lon="-122.162944648" visible="true" />
+<node id="-36" lat="47.770869428" lon="-122.162967052" visible="true" />
+<node id="-37" lat="47.770829374" lon="-122.162997221" visible="true" />
+<node id="-38" lat="47.770915023" lon="-122.163247313" visible="true" />
+<node id="-39" lat="47.771152885" lon="-122.163068107" visible="true" />
+<node id="-40" lat="47.771175345" lon="-122.163133679" visible="true" />
+<node id="-41" lat="47.77106965" lon="-122.163213289" visible="true" />
+<node id="-42" lat="47.771089617" lon="-122.163271596" visible="true" />
+<node id="-43" lat="47.771827434" lon="-122.162715724" visible="true" />
+<node id="-44" lat="47.771806539" lon="-122.162654708" visible="true" />
+<node id="-45" lat="47.771696667" lon="-122.162737509" visible="true" />
+<node id="-46" lat="47.77167548" lon="-122.16267559" visible="true" />
+<node id="-47" lat="47.771914143" lon="-122.162495791" visible="true" />
+<node id="-48" lat="47.771827326" lon="-122.16224229" visible="true" />
+<node id="-49" lat="47.771788904" lon="-122.162271242" visible="true" />
+<node id="-50" lat="47.771781054" lon="-122.162248385" visible="true" />
+<node id="-51" lat="47.771750737" lon="-122.162271239" visible="true" />
+<node id="-53" lat="47.77157601" lon="-122.161930929" visible="true" />
+<node id="-54" lat="47.771379629" lon="-122.162518051" visible="true" />
+<node id="-55" lat="47.771391083" lon="-122.162549214" visible="true" />
+<node id="-56" lat="47.771379887" lon="-122.162557143" visible="true" />
+<node id="-57" lat="47.771373876" lon="-122.162536449" visible="true" />
+<node id="-58" lat="47.771369673" lon="-122.162539433" visible="true" />
+<node id="-59" lat="47.771346843" lon="-122.162475073" visible="true" />
+<node id="-60" lat="47.77123976" lon="-122.162560914" visible="true" />
+<node id="-61" lat="47.771267968" lon="-122.162643876" visible="true" />
+<node id="-62" lat="47.771253292" lon="-122.16265383" visible="true" />
+<node id="-63" lat="47.771243945" lon="-122.162620688" visible="true" />
+<node id="-64" lat="47.770813755" lon="-122.162518518" visible="true" />
+<node id="-66" lat="47.770785363" lon="-122.162578514" visible="true" />
+<node id="-67" lat="47.771220429" lon="-122.162678734" visible="true" />
+<node id="-68" lat="47.770938645" lon="-122.162883659" visible="true" />
+<node id="-69" lat="47.770917802" lon="-122.162827607" visible="true" />
+<node id="-70" lat="47.770889017" lon="-122.162857781" visible="true" />
+<node id="-71" lat="47.770832606" lon="-122.16269385" visible="true" />
+<node id="-72" lat="47.77082495" lon="-122.162696744" visible="true" />
+<node id="-74" lat="47.771219817" lon="-122.163103175" visible="true" />
+<node id="-75" lat="47.771196978" lon="-122.163037148" visible="true" />
+<node id="-76" lat="47.771634127" lon="-122.162704344" visible="true" />
+<node id="-77" lat="47.771656966" lon="-122.162770372" visible="true" />
+<node id="-79" lat="47.771355686" lon="-122.16143738" visible="true" />
+<node id="-80" lat="47.771194351" lon="-122.161663821" visible="true" />
+<node id="-81" lat="47.771145583" lon="-122.161498053" visible="true" />
+<way id="-2" visible="true"><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-13" /><nd ref="-14" /><nd ref="-15" /><nd ref="-16" /><nd ref="-17" /><nd ref="-18" /><nd ref="-19" /><nd ref="-20" /><nd ref="-21" /><nd ref="-22" /><nd ref="-23" /><nd ref="-24" /><nd ref="-25" /><nd ref="-26" /><nd ref="-27" /><nd ref="-28" /><nd ref="-29" /><nd ref="-30" /><nd ref="-31" /><nd ref="-32" /><nd ref="-33" /><nd ref="-34" /><nd ref="-35" /><nd ref="-36" /><nd ref="-37" /><nd ref="-38" /><nd ref="-39" /><nd ref="-40" /><nd ref="-41" /><nd ref="-42" /><nd ref="-43" /><nd ref="-44" /><nd ref="-45" /><nd ref="-46" /><nd ref="-47" /><nd ref="-48" /><nd ref="-49" /><nd ref="-50" /><nd ref="-51" /><nd ref="-3" /></way>
+<way id="-52" visible="true"><nd ref="-53" /><nd ref="-54" /><nd ref="-55" /><nd ref="-56" /><nd ref="-57" /><nd ref="-58" /><nd ref="-59" /><nd ref="-60" /><nd ref="-61" /><nd ref="-62" /><nd ref="-63" /><nd ref="-64" /><nd ref="-53" /></way>
+<way id="-65" visible="true"><nd ref="-66" /><nd ref="-67" /><nd ref="-68" /><nd ref="-69" /><nd ref="-70" /><nd ref="-71" /><nd ref="-72" /><nd ref="-66" /></way>
+<way id="-73" visible="true"><nd ref="-74" /><nd ref="-75" /><nd ref="-76" /><nd ref="-77" /><nd ref="-74" /></way>
+<way id="-78" visible="true"><nd ref="-79" /><nd ref="-80" /><nd ref="-81" /><nd ref="-79" /></way>
+<relation id="-1" visible="true"><member ref="-2" role="outer" type="way" /><member ref="-52" role="inner" type="way" /><member ref="-65" role="inner" type="way" /><member ref="-73" role="inner" type="way" /><member ref="-78" role="inner" type="way" /><tag k="type" v="multipolygon" /><tag k="building" v="yes" /><tag k="name" v="Woodinville High School" /></relation>
+<node id="-1000001" lat="47.770809695" lon="-122.154700978" visible="true"><tag k="addr:housenumber" v="19725" /><tag k="addr:postcode" v="98072" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="139th Avenue Northeast" /></node>
+<node id="-1000002" lat="47.775417057" lon="-122.163706395" visible="true"><tag k="addr:housenumber" v="20318" /><tag k="addr:postcode" v="98072" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="132nd Avenue Northeast" /></node>
+<node id="-1000003" lat="47.775320072" lon="-122.163703907" visible="true"><tag k="addr:housenumber" v="20314" /><tag k="addr:postcode" v="98072" /><tag k="addr:city" v="Woodinville" /><tag k="addr:street" v="132nd Avenue Northeast" /></node>
+</osm>

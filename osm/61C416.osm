@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="47.776922593" lon="-122.150327736" visible="true"><tag k="addr:housenumber" v="24115"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+<node id="-2" lat="47.776737894" lon="-122.151720286" visible="true"><tag k="addr:housenumber" v="24309"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+<node id="-3" lat="47.777033959" lon="-122.153445389" visible="true"><tag k="addr:housenumber" v="24302"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+<node id="-4" lat="47.778232981" lon="-122.15153507" visible="true"><tag k="addr:housenumber" v="24300"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+<node id="-5" lat="47.778268435" lon="-122.150977611" visible="true"><tag k="addr:housenumber" v="24200"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+<node id="-6" lat="47.778409559" lon="-122.150060579" visible="true"><tag k="addr:housenumber" v="24120"/><tag k="addr:postcode" v="98072"/><tag k="addr:city" v="Woodinville"/><tag k="addr:street" v="Snohomish Woodinville Road"/></node>
+</osm>

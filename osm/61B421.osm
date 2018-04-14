@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="47.836549175" lon="-122.258438813" visible="true"><tag k="addr:housenumber" v="17904"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="17th Avenue West"/></node>
+<node id="-2" lat="47.83769236" lon="-122.258457816" visible="true"><tag k="addr:housenumber" v="17720"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="17th Avenue West"/></node>
+<node id="-3" lat="47.838315654" lon="-122.258085068" visible="true"><tag k="addr:housenumber" v="17630"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="18th Avenue West"/></node>
+<node id="-4" lat="47.838718256" lon="-122.257590344" visible="true"><tag k="addr:housenumber" v="17624"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="17th Avenue West"/></node>
+<node id="-5" lat="47.838657723" lon="-122.258493138" visible="true"><tag k="addr:housenumber" v="17620"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="18th Avenue West"/></node>
+<node id="-6" lat="47.838992766" lon="-122.257363148" visible="true"><tag k="addr:housenumber" v="17528"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="17th Avenue West"/></node>
+<node id="-7" lat="47.839063918" lon="-122.258602509" visible="true"><tag k="addr:housenumber" v="17602"/><tag k="addr:postcode" v="98037"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="18th Avenue West"/></node>
+</osm>
