@@ -1,6 +1,4 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
 <node id="-1" lat="47.730322395" lon="-122.18126126" visible="true"><tag k="addr:housenumber" v="14236"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="119th Place Northeast"/></node>
-<node id="-2" lat="47.72960908" lon="-122.181294658" visible="true"><tag k="addr:housenumber" v="14212"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="119th Place Northeast"/></node>
-<node id="-3" lat="47.726883878" lon="-122.183586096" visible="true"><tag k="addr:housenumber" v="14033"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="118th Avenue Northeast"/></node>
 </osm>

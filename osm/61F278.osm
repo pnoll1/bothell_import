@@ -170,5 +170,4 @@
 <node id="-168" lat="47.822798579" lon="-122.278403275" visible="true"><tag k="addr:housenumber" v="19400"/><tag k="addr:postcode" v="98036"/><tag k="addr:unit" v="300"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="33rd Avenue West"/></node>
 <node id="-169" lat="47.823241983" lon="-122.278469588" visible="true"><tag k="addr:housenumber" v="19320"/><tag k="addr:postcode" v="98036"/><tag k="addr:unit" v="200"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="33rd Avenue West"/></node>
 <node id="-170" lat="47.827567183" lon="-122.279175826" visible="true"><tag k="addr:housenumber" v="3400"/><tag k="addr:postcode" v="98037"/><tag k="addr:unit" v="101"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="188th Street Southwest"/></node>
-<node id="-171" lat="47.824756121" lon="-122.275815482" visible="true"><tag k="addr:housenumber" v="3105"/><tag k="addr:postcode" v="98036"/><tag k="addr:unit" v="M"/><tag k="addr:city" v="Lynnwood"/><tag k="addr:street" v="Alderwood Mall Boulevard"/></node>
 </osm>

@@ -8,10 +8,9 @@ def filterTags(attrs):
         return
 
     tags = {}
-    tags['building'] = 'yes'
     if 'ADDR_NUM' in attrs and attrs['ADDR_NUM'] != '':
         tags['addr:housenumber'] = attrs['ADDR_NUM']
-    if 'UNIT' in attrs and attrs['UNIT'] != '':
+    if 'UNIT' in attrs and attrs['UNIT'] != '' and attrs['BLDG_TYPE'] != 'APT':
         tags['addr:unit'] = attrs['UNIT']
     if 'STREETNAME' in attrs and attrs['STREETNAME'] != '':
         tags['addr:street'] = attrs['STREETNAME']
@@ -20,35 +19,33 @@ def filterTags(attrs):
     if 'ZIP' in attrs and attrs['ZIP'] != '':
         tags['addr:postcode'] = attrs['ZIP']
     if 'BLDG_TYPE' in attrs and attrs['BLDG_TYPE'] != '':
-        if attrs['BLDG_TYPE'] == 'Accessory':
-            tags['building'] = 'semidetached_house'
-
-        if attrs['BLDG_TYPE'] == 'Church':
+        if attrs['BLDG_TYPE'] == 'Single Family':
+            tags['building'] = 'house'
+        elif attrs['BLDG_TYPE'] == 'Accessory':
+            tags['building'] = 'yes'
+        elif attrs['BLDG_TYPE'] == 'Church':
             tags['building'] = 'church'
-
-        if attrs['BLDG_TYPE'] == 'Commercial':
+        elif attrs['BLDG_TYPE'] == 'Commercial':
             tags['building'] = 'commercial'
-
-        if attrs['BLDG_TYPE'] == 'Local Government':
+        elif attrs['BLDG_TYPE'] == 'Local Government':
             tags['building'] = 'public'
-
-        if attrs['BLDG_TYPE'] == 'Manufactured Home':
+        elif attrs['BLDG_TYPE'] == 'Manufactured Home':
             tags['building'] = 'manufactured'
-
-        if attrs['BLDG_TYPE'] == 'Mobile Home':
+        elif attrs['BLDG_TYPE'] == 'Mobile Home':
             tags['building'] = 'static_caravan'
-
-        if attrs['BLDG_TYPE'] == 'Multi Family' and attrs['NO_ADDR'] < 4:
+        elif attrs['BLDG_TYPE'] == 'Multi Family' and attrs['NO_ADDR'] < 4:
             tags['building'] = 'residential'
-
-        if attrs['BLDG_TYPE'] == 'Multi Family' and attrs['NO_ADDR'] > 3:
+        elif attrs['BLDG_TYPE'] == 'Multi Family' and attrs['NO_ADDR'] > 3:
             tags['building'] = 'apartments'
-
-        if attrs['BLDG_TYPE'] == 'Other Public Facility':
+        elif attrs['BLDG_TYPE'] == 'Other Public Facility':
             tags['building'] = 'public'
-
-        if attrs['BLDG_TYPE'] == 'Private School':
+        elif attrs['BLDG_TYPE'] == 'Private School':
             tags['building'] = 'school'
+        else: 
+            tags['building'] = 'yes'
+    else:
+        tags['building'] = 'yes'
+            
     if 'FLOORS' in attrs and attrs['FLOORS'] != '':
         tags['building:levels'] = attrs['FLOORS']
 

@@ -3,7 +3,7 @@
 <node id="-3" lat="47.826092585" lon="-122.247143764" visible="true" />
 <node id="-4" lat="47.826091688" lon="-122.247099904" visible="true" />
 <node id="-5" lat="47.826052344" lon="-122.247101677" visible="true" />
-<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-2" /><tag k="building" v="semidetached_house" /></way>
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-2" /><tag k="building" v="yes" /></way>
 <node id="-1000001" lat="47.837541555" lon="-122.241254338" visible="true"><tag k="addr:housenumber" v="17712" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="6th Avenue West" /></node>
 <node id="-1000002" lat="47.837582781" lon="-122.242402098" visible="true"><tag k="addr:housenumber" v="17709" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="7th Avenue West" /></node>
 <node id="-1000003" lat="47.837244699" lon="-122.242450597" visible="true"><tag k="addr:housenumber" v="17719" /><tag k="addr:postcode" v="98012" /><tag k="addr:city" v="Bothell" /><tag k="addr:street" v="7th Avenue West" /></node>

@@ -58,5 +58,4 @@
 <node id="-56" lat="47.77941164" lon="-122.266799032" visible="true"><tag k="addr:housenumber" v="24040"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="25th Avenue West"/></node>
 <node id="-57" lat="47.779226387" lon="-122.266551868" visible="true"><tag k="addr:housenumber" v="24050"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="25th Avenue West"/></node>
 <node id="-58" lat="47.779350408" lon="-122.266119119" visible="true"><tag k="addr:housenumber" v="24045"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="25th Avenue West"/></node>
-<node id="-59" lat="47.778142835" lon="-122.268905673" visible="true"><tag k="addr:housenumber" v="2706"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="242nd Place Southwest"/></node>
 </osm>

@@ -7,7 +7,7 @@
 <node id="-7" lat="47.825948023" lon="-122.253597686" visible="true" />
 <node id="-8" lat="47.825951179" lon="-122.25357295" visible="true" />
 <node id="-9" lat="47.825947508" lon="-122.253571917" visible="true" />
-<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-2" /><tag k="building" v="semidetached_house" /></way>
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-2" /><tag k="building" v="yes" /></way>
 <node id="-1000001" lat="47.832803782" lon="-122.25640958" visible="true"><tag k="addr:housenumber" v="18221" /><tag k="addr:postcode" v="98037" /><tag k="addr:city" v="Lynnwood" /><tag k="addr:street" v="17th Place West" /></node>
 <node id="-1000002" lat="47.833314327" lon="-122.253677955" visible="true"><tag k="addr:housenumber" v="18108" /><tag k="addr:postcode" v="98037" /><tag k="addr:city" v="Lynnwood" /><tag k="addr:street" v="15th Avenue West" /></node>
 <node id="-1000003" lat="47.833926974" lon="-122.25223259" visible="true"><tag k="addr:housenumber" v="1409" /><tag k="addr:postcode" v="98037" /><tag k="addr:city" v="Lynnwood" /><tag k="addr:street" v="181st Place Southwest" /></node>

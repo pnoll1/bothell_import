@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="47.732373998" lon="-122.208435277" visible="true"><tag k="addr:housenumber" v="9934"/><tag k="addr:postcode" v="98034"/><tag k="addr:unit" v="107"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="Northeast 144th Lane"/></node>
+<node id="-1" lat="47.732373998" lon="-122.208435277" visible="true"><tag k="addr:housenumber" v="9934"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="Northeast 144th Lane"/></node>
 <node id="-2" lat="47.729909115" lon="-122.216098942" visible="true"><tag k="addr:housenumber" v="14241"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="94th Avenue Northeast"/></node>
 <node id="-3" lat="47.729910023" lon="-122.218293563" visible="true"><tag k="addr:housenumber" v="14253"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="92nd Place Northeast"/></node>
 <node id="-4" lat="47.730846898" lon="-122.212778004" visible="true"><tag k="addr:housenumber" v="14377"/><tag k="addr:postcode" v="98034"/><tag k="addr:city" v="Kirkland"/><tag k="addr:street" v="Simonds Road Northeast"/></node>

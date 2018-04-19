@@ -56,5 +56,4 @@
 <node id="-54" lat="47.789267876" lon="-122.26483812" visible="true"><tag k="addr:housenumber" v="2398"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="230th Place Southwest"/></node>
 <node id="-55" lat="47.789902799" lon="-122.264182432" visible="true"><tag k="addr:housenumber" v="22973"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="23rd Place West"/></node>
 <node id="-56" lat="47.789702409" lon="-122.264114006" visible="true"><tag k="addr:housenumber" v="22995"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="23rd Place West"/></node>
-<node id="-57" lat="47.79125348" lon="-122.269792997" visible="true"><tag k="addr:housenumber" v="22830"/><tag k="addr:postcode" v="98036"/><tag k="addr:city" v="Brier"/><tag k="addr:street" v="27th Avenue West"/></node>
 </osm>

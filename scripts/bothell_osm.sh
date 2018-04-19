@@ -70,4 +70,5 @@ do
     fi
 
     gzip ${WORKINGDIR}/osm/${id}.osm
+    mv ${WORKINGDIR}/osm/${id}.osm.gz ~/ownCloud/OSM/bothell_import/osm/
 done < precincts.lst
