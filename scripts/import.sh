@@ -1,10 +1,20 @@
 #!/bin/bash
 
-WORKINGDIR=/home/clifford/Downloads/bothell_imports/scripts
+WORKINGDIR=/home/pat/projects/bothell_import/scripts
 PGDATABASE=mygis
 PGUSER=postgres
 SHP2PGSQL=`which shp2pgsql`
-ORG2OGR=/home/clifford/bin/ogr2osm.py
+OGR2OSM=/home/pat/projects/bothell_import/ogr2osm/ogr2osm
+# add format_road as function
+#  psql -U postgres -d mygis -f format_road.sql
+
+#create database and tables
+psql -U ${PGUSER} -c "CREATE DATABASE ${PGDATABASE};"
+psql -d ${PGDATABASE} -U ${PGUSER} -c "CREATE EXTENSION postgis;"
+psql -d ${PGDATABASE} -U ${PGUSER} -c "CREATE TABLE bothell_addr(gid serial primary key, name varchar(20), geom geometry(LINESTRING));"
+psql -d ${PGDATABASE} -U ${PGUSER} -c "CREATE TABLE bothell_bldg(gid serial primary key, name varchar(20) , geom geometry(LINESTRING));"
+psql -d ${PGDATABASE} -U ${PGUSER} -c "CREATE TABLE bothell_parcel(gid serial primary key, name varchar(20), geom geometry(LINESTRING));"
+psql -d ${PGDATABASE} -U ${PGUSER} -c "CREATE TABLE bothell_votdst(gid serial primary key, name varchar(20), geom geometry(LINESTRING));"
 
 cd ${WORKINGDIR}
 

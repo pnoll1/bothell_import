@@ -1,7 +1,7 @@
 #!/bin/bash
 
-WORKINGDIR=/home/clifford/Downloads/bothell_import/scripts
-OGR2OSM=/home/clifford/bin/ogr2osm.py
+WORKINGDIR=/home/pat/projects/bothell_import/scripts
+OGR2OSM=/home/pat/projects/bothell_import/ogr2osm/ogr2osm
 PGUSER=postgres
 PGDATABASE=mygis
 

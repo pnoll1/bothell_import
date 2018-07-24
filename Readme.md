@@ -9,7 +9,13 @@ district.
 
 ## Translation
 A mix of sql, bash and python were used translate, conflate and tag data.
-All scripts used are in the scripts folder.
+All scripts used are in the scripts folder.  Requires bash shell, python, postgresql with postgis and ogr2ogr.
+
+  - Set variables at top of import.sh and bothell_osm.sh to point to values for your
+computer
+  - Run import.sh
+  - Run bothell_osm.sh
+  - Output files will be in ./osm
 
 ## Source data
   - /Cadastre_shp/BothellAddress.* are source for addresses
