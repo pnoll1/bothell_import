@@ -24,16 +24,8 @@ do
     if [ -e ${WORKINGDIR}/tmp/${id}a.shp ]
     then
       echo "Removing old files"
-      rm ${WORKINGDIR}/tmp/${id}a.shp
-      rm ${WORKINGDIR}/tmp/${id}a.shx
-      rm ${WORKINGDIR}/tmp/${id}a.prj
-      rm ${WORKINGDIR}/tmp/${id}a.dbf
-      rm ${WORKINGDIR}/tmp/${id}a.osm
-      rm ${WORKINGDIR}/tmp/${id}b.shp
-      rm ${WORKINGDIR}/tmp/${id}b.shx
-      rm ${WORKINGDIR}/tmp/${id}b.prj
-      rm ${WORKINGDIR}/tmp/${id}b.dbf
-      rm ${WORKINGDIR}/tmp/${id}b.osm
+      rm ${WORKINGDIR}/tmp/${id}a.*
+      rm ${WORKINGDIR}/tmp/${id}b.*
     fi
 
     if [ -e ${WORKINGDIR}/osm/${id}.osm.gz ]
@@ -56,19 +48,25 @@ do
     	${OGR2OSM} -f -t ${WORKINGDIR}/bothell_addr.py ${WORKINGDIR}/tmp/${id}a.shp -o ${WORKINGDIR}/tmp/${id}a.osm
     fi
 
-    if [ -f ${WORKINGDIR}/tmp/${id}b.shp ] 
+    if [ -f ${WORKINGDIR}/tmp/${id}b.osm ] && [ -f ${WORKINGDIR}/tmp/${id}a.osm ] 
     then
         python ${WORKINGDIR}/merge_osm2.py ${WORKINGDIR}/tmp/${id}b.osm ${WORKINGDIR}/tmp/${id}a.osm ${WORKINGDIR}/osm/${id}.osm
-    else
-	echo "mv ${WORKINGDIR}/tmp/${id}a.osm ${id}.osm"
-	mv ${WORKINGDIR}/tmp/${id}a.osm ${WORKINGDIR}/osm/${id}.osm
+        gzip ${WORKINGDIR}/osm/${id}.osm
+    elif [ -f  ${WQORKINGDIR}/tmp/${id}a.osm ]
+        then
+	        echo "mv ${WORKINGDIR}/tmp/${id}a.osm ${id}.osm"
+	        mv ${WORKINGDIR}/tmp/${id}a.osm ${WORKINGDIR}/osm/${id}.osm
+            gzip ${WORKINGDIR}/osm/${id}.osm
+    elif [ -f  ${WQORKINGDIR}/tmp/${id}b.osm ]
+        then
+	        echo "mv ${WORKINGDIR}/tmp/${id}a.osm ${id}.osm"
+	        mv ${WORKINGDIR}/tmp/${id}b.osm ${WORKINGDIR}/osm/${id}.osm
+            gzip ${WORKINGDIR}/osm/${id}.osm
     fi
+#
+#    if [ -f ${WORKINGDIR}/osm/${id}.osm.gz ]
+#    then
+#        mv ${WORKINGDIR}/osm/${id}.osm.gz ~/ownCloud/OSM/bothell_import/osm/
+#    fi
 
-    if [ -f ${WORKINGDIR}/tmp/${id}.osm ] 
-    then
-    	mv ${id}.osm ${WORKINGDIR}/osm
-    fi
-
-    gzip ${WORKINGDIR}/osm/${id}.osm
-    mv ${WORKINGDIR}/osm/${id}.osm.gz ~/ownCloud/OSM/bothell_import/osm/
 done < precincts.lst

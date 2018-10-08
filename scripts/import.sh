@@ -1,6 +1,7 @@
 #!/bin/bash
 
 WORKINGDIR=/home/clifford/Downloads/bothell_imports/scripts
+DATA_DIR=/home/clifford/Downloads/bothell_imports
 PGDATABASE=mygis
 PGUSER=postgres
 SHP2PGSQL=`which shp2pgsql`
@@ -16,7 +17,21 @@ then
 	psql ${PGDATABASE} -Atc "SELECT vtdst10 FROM bothell_votdst;" > precincts.lst
 fi
 
-# import Buildings 
+# load Buildings 
+#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
+#    "${DATA_DIR}/Buildings.gdb" "Buildings" -nln bothell_bldg -lco GEOMETRY_NAME=geom
+
+# load Addresses
+#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
+#    "${DATA_DIR}/Cadastre.gdb" "BothellAddress" -nln bothell_addr -lco GEOMETRY_NAME=geom
+
+# load parcels
+#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
+#    "${DATA_DIR}/Cadastre.gdb" "Parcels" -nln bothell_parcel -lco GEOMETRY_NAME=geom
+
 
 
 echo "start configuring tables"
@@ -46,7 +61,11 @@ psql -d ${PGDATABASE} -U ${PGUSER} -f no_bldgs2parcels.sql
 
 # Add Building id to address
 psql -d ${PGDATABASE} -U ${PGUSER} -f add_bldg_id2addr.sql
+echo "looking for addresses in parcel with a building without a address node"
 psql -d ${PGDATABASE} -U ${PGUSER} -f add_bldg_id2addr_not_in_bldg.sql
+
+
+psql -d ${PGDATABASE} -U ${PGUSER} -f add_parcel_id2addr.sql
 
 
 # Add count of addresses in buildings and parcels - slow query - 15 minutes on my workstation
