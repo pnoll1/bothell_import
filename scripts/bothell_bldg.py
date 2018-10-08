@@ -49,8 +49,15 @@ def filterTags(attrs):
     if 'FLOORS' in attrs and attrs['FLOORS'] != '':
         tags['building:levels'] = attrs['FLOORS']
 
+    if 'HEIGHT' in attrs and attrs['HEIGHT'] != '':
+        if attrs['HEIGHT'] > 0:
+            tags['height'] = attrs['HEIGHT']
+
     if 'NAME' in attrs and attrs['NAME'] != '':
         tags['name'] = attrs['NAME']
+
+    if 'UNIT_BLDG' in attrs and attrs['UNIT_BLDG'] != '' and attrs['BLDG_TYPE'] == 'Multi Family':
+	    tags['name'] = (attrs['NAME'] + ' Building ' + attrs['UNIT_BLDG']).lstrip()
 
     if 'YRBUILT' in attrs and attrs['YRBUILT'] > 1800:
         tags['start_date'] = attrs['YRBUILT']

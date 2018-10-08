@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<osm version="0.6" upload="false" generator="uvmogr2osm">
-<node id="-1" lat="47.755276378" lon="-122.238155612" visible="true"><tag k="addr:housenumber" v="7637"/><tag k="addr:postcode" v="98028"/><tag k="addr:city" v="Kenmore"/><tag k="addr:street" v="Northeast 175th Street"/></node>
-<node id="-2" lat="47.755643153" lon="-122.237011609" visible="true"><tag k="addr:housenumber" v="7721"/><tag k="addr:postcode" v="98028"/><tag k="addr:city" v="Kenmore"/><tag k="addr:street" v="Northeast 175th Street"/></node>
-<node id="-3" lat="47.755669814" lon="-122.236170635" visible="true"><tag k="addr:housenumber" v="7801"/><tag k="addr:postcode" v="98028"/><tag k="addr:city" v="Kenmore"/><tag k="addr:street" v="Northeast 175th Street"/></node>
-<node id="-4" lat="47.755373987" lon="-122.234779567" visible="true"><tag k="addr:housenumber" v="7911"/><tag k="addr:postcode" v="98028"/><tag k="addr:city" v="Kenmore"/><tag k="addr:street" v="Northeast 175th Street"/></node>
-</osm>

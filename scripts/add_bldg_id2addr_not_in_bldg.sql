@@ -1,2 +1,2 @@
-﻿update bothell_addr a set bldg_id = b.gid from bothell_bldg b, bothell_parcel p
-where a.gid =  b.gid and b.parcel_gid = p.gid and a.bldg_id is null and p.no_bldgs = 1 and b.no_addr is null
+﻿UPDATE bothell_addr SET bldg_id = b.gid FROM bothell_bldg b, bothell_parcel p, bothell_addr a
+WHERE p.gid = a.parcel_gid AND b.parcel_gid = p.gid AND a.bldg_id IS NULL AND p.no_bldgs = 1 AND b.no_addr IS NULL;

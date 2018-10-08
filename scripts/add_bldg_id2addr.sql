@@ -1,1 +1,1 @@
-﻿update bothell_addr a set bldg_id = b.gid from bothell_bldg b where st_contains(b.geom, a.geom)
+﻿UPDATE bothell_addr a SET bldg_id = b.gid FROM bothell_bldg b WHERE ST_CONTAINS(b.geom, a.geom)
