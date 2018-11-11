@@ -4,7 +4,7 @@ Source files, translation scripts and OSM xml files for bothell import.
 See [Import wiki](https://wiki.openstreetmap.org/wiki/Bothell_import) for overall plan.
  
 ## Files for import
-osm folder contains files for import. The data is broken into files by voting
+/scripts/osm folder contains files for import. The data is broken into files by voting
 district.
 
 ## Translation
