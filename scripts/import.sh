@@ -1,11 +1,11 @@
 #!/bin/bash
 
-WORKINGDIR=/home/clifford/Downloads/bothell_imports/scripts
-DATA_DIR=/home/clifford/Downloads/bothell_imports
+WORKINGDIR=/home/pat/projects/bothell_import/scripts
+DATA_DIR=/home/pat/projects/bothell_import
 PGDATABASE=mygis
-PGUSER=postgres
+PGUSER=pat
 SHP2PGSQL=`which shp2pgsql`
-ORG2OGR=/home/clifford/bin/ogr2osm.py
+ORG2OGR=/home/pat/projects/bothell_import/ogr2osm/ogr2osm.py
 
 cd ${WORKINGDIR}
 
@@ -18,19 +18,19 @@ then
 fi
 
 # load Buildings 
-#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
-#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
-#    "${DATA_DIR}/Buildings.gdb" "Buildings" -nln bothell_bldg -lco GEOMETRY_NAME=geom
+ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE} password='postgres'" \
+    "${DATA_DIR}/Buildings.gdb" "Buildings" -nln bothell_bldg -lco GEOMETRY_NAME=geom
 
 # load Addresses
-#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
-#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
-#    "${DATA_DIR}/Cadastre.gdb" "BothellAddress" -nln bothell_addr -lco GEOMETRY_NAME=geom
+ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE} password='postgres'" \
+    "${DATA_DIR}/Cadastre.gdb" "BothellAddress" -nln bothell_addr -lco GEOMETRY_NAME=geom
 
 # load parcels
-#ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
-#    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE}" \
-#    "${DATA_DIR}/Cadastre.gdb" "Parcels" -nln bothell_parcel -lco GEOMETRY_NAME=geom
+ogr2ogr -overwrite -a_srs "EPSG:2285" -t_srs "EPSG:4326" -skipfailures -f \
+    "PostgreSQL" PG:"host=localhost user=${PGUSER} dbname=${PGDATABASE} password='postgres'" \
+    "${DATA_DIR}/Cadastre.gdb" "BothellParcel" -nln bothell_parcel -lco GEOMETRY_NAME=geom
 
 
 
